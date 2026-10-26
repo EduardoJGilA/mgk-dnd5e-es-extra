@@ -1169,10 +1169,6 @@
       "name": "Ataque sin armas",
       "description": "<p>Puedes atacar en cuerpo a cuerpo estando desarmado mediante un ataque sin armas, ya se trate de un puñetazo, patada, cabezazo o cualquier otro impacto enérgico. En caso de impactar, causarás 1 + tu modificador de Fuerza de daño contundente. Siempre eres competente con tus ataques sin armas.</p>"
     },
-    "Claws": {
-      "name": "Garras",
-      "description": "<p><i>Ataque con arma cuerpo a cuerpo:</i> [[/r 1d20+4]]{+4} al ataque, alcance 5 pies, un objetivo. <i>Impacto:</i> 7 ([[/damage 2d4 + 2 type=slashing]]) de daño cortante. Si el objetivo es una criatura que no sea un elfo ni un muerto viviente, debe superar una tirada de salvación [[/save ability=constitution dc=10]] o quedará &amp;Reference[condition=paralyzed]{paralizado} durante 1 minuto. El objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos y, si la supera, el efecto termina para él.</p>"
-    },
     "Thunderclap": {
       "name": "Palmada atronadora",
       "description": "<p>Creas un estallido de sonido atronador que se oye hasta a 100 pies. Cada criatura dentro del alcance, salvo tú, debe hacer una tirada de salvación de Constitución o recibirá [[/r 1d6]] de daño de trueno.</p><p>El daño del conjuro aumenta en [[/r 1d6]] cuando alcanzas el nivel 5 ([[/r 2d6]]), el nivel 11 ([[/r 3d6]]) y el nivel 17 ([[/r 4d6]]).</p>"
@@ -1403,6 +1399,274 @@
       "name": "Mano arcana",
       "description": "<p>Creas una mano grande de fuerza translúcida y brillante en un espacio desocupado que puedes ver dentro del alcance. La mano dura la duración del hechizo y se mueve a tus órdenes, imitando los movimientos de tu propia mano.</p><p>La mano es un objeto que tiene CA 20 y puntos de golpe iguales a tu máximo de puntos de golpe. Si cae a 0 Puntos de Golpe, el hechizo termina. Tiene una Fuerza de 26 (+8) y una Destreza de 10 (+0). La mano no llena su espacio.</p><p>Cuando lanzas el hechizo y como acción adicional en tus turnos posteriores, puedes mover la mano hasta 60 pies y luego causar uno de los siguientes efectos con ella..</p><p><strong>Puño Cerrado</strong>. La mano golpea a una criatura u objeto a 5 pies de ella. Haz un ataque de hechizo cuerpo a cuerpo para la mano usando las estadísticas de tu juego. Con un golpe, el objetivo sufre 4d8 de daño de fuerza.</p><p><strong>Mano poderosa</strong>. La mano intenta empujar a una criatura a 5 pies de ella en la dirección que elijas. Haz una prueba con la Fuerza de la mano impugnada por la prueba de Fuerza (Atletismo) del objetivo. Si el objetivo es Mediano o más pequeño, tienes ventaja en el cheque. Si tienes éxito, la mano empuja al objetivo hasta 5 pies más una cantidad de pies igual a cinco veces tu modificador de habilidad de lanzamiento de hechizos. La mano se mueve con el objetivo para permanecer a menos de 5 pies de él.</p><p><strong>Mano de agarre</strong>. La mano intenta agarrar a una criatura Enorme o más pequeña a menos de 5 pies de ella. Usas la puntuación de Fuerza de la mano para resolver el agarre. Si el objetivo es Mediano o más pequeño, tienes ventaja en el cheque. Mientras la mano está agarrando al objetivo, puedes usar una acción adicional para que la mano lo aplaste. Cuando lo haces, el objetivo sufre un daño contundente igual a 2d6 + tu modificador de habilidad de Lanzamiento de hechizos.</p><p><strong>Mano interpuesta</strong>. La mano se interpone entre tú y una criatura que elijas hasta que le des una orden diferente. La mano se mueve para permanecer entre usted y el objetivo, brindándole media cobertura contra el objetivo. El objetivo no puede moverse por el espacio de la mano si su puntuación de Fuerza es inferior o igual a la puntuación de Fuerza de la mano. Si su puntuación de Fuerza es más alta que la puntuación de Fuerza de la mano, el objetivo puede moverse hacia usted a través del espacio de la mano, pero ese espacio es un terreno difícil para el objetivo.</p><p><strong>En niveles más altos.</strong > Cuando lanzas este conjuro usando un espacio de conjuro de nivel 6 o superior, el daño de la opción de puño cerrado aumenta en 2d8 y el daño de la mano que agarra aumenta en 2d6 por cada nivel de espacio por encima del 5.</p>",
       "material": "una cáscara de huevo y un guante de piel de serpiente"
+    },
+    "WAAi7W0ScgdXItXi": {
+      "name": "Toque marchitador",
+      "description": "<p><i>Ataque con arma cuerpo a cuerpo:</i> [[/r 1d20+7]] (+7) al ataque, alcance 5 pies, un objetivo. <i>Impacto:</i> 18 ([[/r 4d6 + 4]]) de daño necrótico. Si el objetivo es una criatura, su puntuación de Fuerza se reduce en [[/r 1d4]]. El objetivo muere si su Fuerza llega a 0. Si no, la reducción dura hasta que termine un descanso corto o largo.</p>"
+    },
+    "DLNhK4E2HdBo2RoS": {
+      "name": "Garras",
+      "description": "<p><i>Ataque con arma cuerpo a cuerpo:</i> [[/r 1d20+4]]{+4} al ataque, alcance 5 pies, un objetivo. <i>Impacto:</i> 7 ([[/damage 2d4 + 2 type=slashing]]) de daño cortante. Si el objetivo es una criatura que no sea un elfo ni un muerto viviente, debe superar una tirada de salvación [[/save ability=constitution dc=10]] o quedará &amp;Reference[condition=paralyzed]{paralizado} durante 1 minuto. El objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos y, si la supera, el efecto termina para él.</p>"
+    },
+    "RkPPLFjAAp9Jdw8P": {
+      "name": "Garra",
+      "description": "<p><i>Ataque con arma cuerpo a cuerpo:</i> [[/r 1d20+7]] (+7) al ataque, alcance 10 pies, un objetivo. <i>Impacto:</i> 11 ([[/r 2d6 + 4]]) de daño cortante.</p>"
+    },
+    "Arcane Endurance": {
+      "name": "Resistencia arcana",
+      "description": "<p>A nivel 2, tus puntos de golpe máximos aumentan en 2, y en 1 más cada vez que subes un nivel en esta clase.</p><p>Además, solo necesitas sacrificar una fracción de tu fuerza vital para lanzar conjuros de hemomancia. Cuando gastas puntos de golpe para lanzar un conjuro con la etiqueta hemomancia, obtienes tantos puntos de golpe temporales como la mitad de lo que gastaste. Estos puntos de golpe temporales duran hasta 1 hora.</p>"
+    },
+    "Blood Rush": {
+      "name": "Frenesí de sangre",
+      "description": "<p><i>(Rasgo de Caballero de Sangre de nivel 15)</i></p><p>A partir de nivel 15, cada vez que lanzas un conjuro de hemomancia de nivel 1 o superior, entras en un frenesí de sangre que dura hasta el final de tu siguiente turno. Mientras dura, tu velocidad se duplica, tienes ventaja en las tiradas de salvación de Destreza y puedes usar Retirarse como acción adicional.</p>"
+    },
+    "Blood Well": {
+      "name": "Pozo de sangre",
+      "description": "<p><i>(Rasgo de Caballero de Sangre de nivel 3)</i></p><p>También a nivel 3, obtienes un pozo de magia de sangre que se alimenta con unos dados especiales llamados dados de sangre.</p><h3>Dados de sangre</h3><p>Tienes dos dados de sangre, que son [[/r d6]]. Un dado de sangre se gasta al usarlo. Recuperas todos los dados de sangre gastados al terminar un descanso corto o largo.</p><p>Obtienes un dado de sangre adicional a los niveles 7, 10 y 15.</p><h3>Usar los dados de sangre</h3><p>Los dados de sangre se pueden usar de dos formas. Como acción adicional, puedes gastar un dado de sangre y recuperar tantos puntos de golpe como el resultado. Además, cuando impactas a una criatura con un ataque, puedes gastar un dado de sangre y sumar el resultado a la tirada de daño del ataque. Si lo haces, el ataque cuenta como mágico para superar la resistencia y la inmunidad a los ataques y el daño no mágicos.</p>"
+    },
+    "Bloodrage": {
+      "name": "Furia sangrienta",
+      "description": "<p><i>(Rasgo de la Senda de la Sangre de nivel 3)</i></p><p>Cuando eliges esta senda a nivel 3, puedes encender tu sangre con poder mágico durante tu furia. Al final de cada uno de tus turnos mientras estés en furia, puedes elegir recibir [[/r 1d4]] + la mitad de tu nivel de bárbaro de daño necrótico para liberar un estallido de energía necrótica. Cada criatura de tu elección a 10 pies o menos de ti recibe tanto daño necrótico como el que recibiste tú. El daño necrótico que recibes ignora la resistencia y la inmunidad.</p>"
+    },
+    "Deathseeker": {
+      "name": "Buscamuertes",
+      "description": "<p><i>(Rasgo de Caballero de Sangre de nivel 7)</i></p><p>A partir de nivel 7, tienes ventaja en las pruebas de Sabiduría (&amp;Reference[skill=Perception]{Percepción}) o Sabiduría (&amp;Reference[skill=Survival]{Supervivencia}) para encontrar a una criatura herida.</p><p>Además, como acción adicional en tu turno puedes sacrificar 1 punto de golpe para conocer la dirección aproximada de cada criatura con sangre que esté a 100 pies o menos de ti.</p>"
+    },
+    "Deepen Wound": {
+      "name": "Ahondar la herida",
+      "description": "<p>A partir de nivel 6, cuando dañas con un conjuro a una criatura que tenga menos de la mitad de sus puntos de golpe máximos, esa criatura recibe daño necrótico adicional igual a tu modificador por Inteligencia, si no ha recibido ya daño de este rasgo este turno.</p>"
+    },
+    "Ghostly Body": {
+      "name": "Cuerpo fantasmal",
+      "description": "<p>Cuando eliges este origen a nivel 1, tu cuerpo queda imbuido de poder oscuro. Tus puntos de golpe máximos aumentan en 1, y en 1 más cada vez que subes un nivel en esta clase.</p><p>Además, este poder permite que tu cuerpo se desvanezca poco a poco hasta volverse invisible. Si permaneces quieto durante 1 minuto en luz tenue u oscuridad, quedas &amp;Reference[condition=invisible]{invisible} hasta que te muevas, entres en luz brillante o uses una acción, una acción adicional o una reacción.</p><p>Al alcanzar el nivel 3 en esta clase, puedes usar tu acción adicional y gastar 1 punto de hechicería para activar este rasgo sin esperar el minuto, de modo que quedas invisible al instante.</p>"
+    },
+    "Hemomancy": {
+      "name": "Hemomancia",
+      "description": "<p><i>(Rasgo de Caballero de Sangre de nivel 3)</i></p><p>Cuando eliges este arquetipo a nivel 3, obtienes la capacidad de lanzar conjuros de hemomancia, descritos en el capítulo 3 de este suplemento.</p><h3>Espacios de conjuro</h3><p>La tabla del Caballero de Sangre indica cuántos espacios de conjuro tienes y de qué nivel son; todos tus espacios son del mismo nivel. Para lanzar uno de tus conjuros de nivel 1 o superior debes gastar un espacio. Recuperas todos los espacios gastados al terminar un descanso largo.</p><p>Durante un descanso corto, puedes recuperar uno de tus espacios de conjuro de Caballero de Sangre. Una vez que lo haces, no puedes volver a hacerlo hasta que termines un descanso largo.</p><h3>Conjuros conocidos de nivel 1 o superior</h3><p>Conoces dos conjuros de hemomancia de nivel 1 de tu elección, escogidos entre los del capítulo 3.</p><p>La columna Conjuros conocidos de la tabla de Lanzamiento de conjuros del Caballero de Sangre indica cuándo aprendes más conjuros de hemomancia de nivel 1 o superior. Por ejemplo, al alcanzar el nivel 7 en esta clase puedes aprender un conjuro nuevo de nivel 1 o 2.</p><p>Cada vez que subes un nivel en esta clase, puedes sustituir uno de los conjuros de hemomancia que conoces por otro de tu elección. El nuevo debe ser de un nivel para el que tengas espacios de conjuro.</p><h3>Característica para lanzar conjuros</h3><p>Tu característica para lanzar conjuros de Caballero de Sangre es la Constitución, ya que tus conjuros se alimentan de la resistencia de tu cuerpo. Usas la Constitución siempre que un conjuro mencione tu característica para lanzar conjuros. Además, usas tu modificador por Constitución para fijar la CD de salvación de tus conjuros de Caballero de Sangre y para las tiradas de ataque con ellos.</p><p><b>CD de salvación de conjuros</b> = 8 + tu bonificador por competencia + tu modificador por Constitución</p><p><b>Modificador de ataque de conjuros</b> = tu bonificador por competencia + tu modificador por Constitución</p>"
+    },
+    "Hemomancy Savant": {
+      "name": "Experto en hemomancia",
+      "description": "<p>Cuando eliges esta escuela a nivel 2, el oro y el tiempo necesarios para copiar en tu libro de conjuros un conjuro con la etiqueta hemomancia se reducen a la mitad.</p>"
+    },
+    "Improved Blood Well": {
+      "name": "Pozo de sangre mejorado",
+      "description": "<p><i>(Rasgo de Caballero de Sangre de nivel 10)</i></p><p>A nivel 10, tus dados de sangre pasan a ser [[/r d8]].</p>"
+    },
+    "Keen Hearing": {
+      "name": "Oído agudo",
+      "description": "<p>El cruorgheist tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del oído.</p>"
+    },
+    "Life Drain": {
+      "name": "Drenaje de vida",
+      "description": "<p>Cuando matas a un humanoide, puedes hacer que se levante 24 horas después como un zombi bajo tu control, a menos que vuelva a la vida o su cuerpo sea destruido. Solo puede haber un zombi creado con esta capacidad a la vez; si creas otro, el primero queda inanimado.</p><p>El zombi tiene las estadísticas del zombi del Manual de Monstruos (pág. 316), salvo que sus puntos de golpe son el triple de tu nivel.</p>"
+    },
+    "Memories of the Fallen": {
+      "name": "Recuerdos de los caídos",
+      "description": "<p>También a nivel 1, obtienes la capacidad de acceder a los recuerdos de los muertos. Si realizas un ritual de 1 minuto sobre un cadáver, puedes saber cómo murió esa criatura. Si ya presenciaste su muerte, obtienes en cambio otro recuerdo aleatorio de ella, determinado por tu DM. Este rasgo solo puede usarse una vez por cadáver.</p>"
+    },
+    "Necrotic Affinity": {
+      "name": "Afinidad necrótica",
+      "description": "<p>A nivel 6, aprendes dos conjuros de nigromancia de cualquier clase. Cada conjuro elegido debe ser de un nivel que puedas lanzar. Cada vez que subes un nivel en esta clase, puedes sustituir uno de ellos por otro conjuro de nigromancia de cualquier clase. Los conjuros elegidos cuentan para ti como conjuros de hechicero, pero no cuentan para tu número de conjuros de hechicero conocidos.</p>"
+    },
+    "Nightstalker Magic": {
+      "name": "Magia del Acechador Nocturno",
+      "description": "<p><i>(Rasgo de Acechador Nocturno de nivel 3)</i></p><p>También a nivel 3, aprendes un conjuro adicional al alcanzar ciertos niveles en esta clase, según la forma que elegiste, como indica la tabla. El conjuro cuenta para ti como conjuro de explorador, pero no cuenta para tus conjuros conocidos.</p><table><caption>Conjuros del Acechador Nocturno</caption><thead><tr><th>Nivel de explorador</th><th>Gato</th><th>Cuervo</th><th>Lobo</th></tr></thead><tbody><tr><td>3</td><td>caída de pluma</td><td>onda atronadora</td><td>causar miedo</td></tr><tr><td>5</td><td>invisibilidad</td><td>ráfaga de viento</td><td>oscuridad</td></tr><tr><td>9</td><td>acelerar</td><td>invocar relámpagos</td><td>miedo</td></tr><tr><td>13</td><td>invisibilidad mayor</td><td>esfera de tormenta</td><td>resplandor enfermizo</td></tr><tr><td>17</td><td>apariencia</td><td>controlar vientos</td><td>contagio</td></tr></tbody></table>"
+    },
+    "Path of Destruction": {
+      "name": "Senda de destrucción",
+      "description": "<p><i>(Rasgo de la Senda de la Sangre de nivel 14)</i></p><p>A partir de nivel 14, cada vez que una criatura a 10 pies o menos de ti queda reducida a 0 puntos de golpe mientras estás en furia, puedes usar tu reacción para moverte hasta la mitad de tu velocidad sin provocar ataques de oportunidad y hacer un ataque con arma cuerpo a cuerpo.</p><p>Como parte de la misma reacción, también puedes gastar un dado de golpe para curarte. Si lo haces, tira el dado, suma tu modificador por Constitución y recupera tantos puntos de golpe como el total (mínimo 1).</p>"
+    },
+    "Posession": {
+      "name": "Posesión",
+      "description": "<p>Un humanoide que el fantasma pueda ver a 5 pies o menos debe superar una tirada de salvación de Carisma CD 15 o quedará poseído por el fantasma; entonces el fantasma desaparece, y el objetivo queda incapacitado y pierde el control de su cuerpo. El fantasma controla ahora el cuerpo, pero el objetivo sigue siendo consciente. El fantasma no puede ser objetivo de ningún ataque, conjuro u otro efecto, salvo los que expulsan muertos vivientes, y conserva su alineamiento, Inteligencia, Sabiduría, Carisma e inmunidad a quedar hechizado y asustado. Por lo demás usa las estadísticas del objetivo poseído, pero no obtiene acceso a sus conocimientos, rasgos de clase ni competencias.</p><p>La posesión dura hasta que el cuerpo cae a 0 puntos de golpe, el fantasma la termina como acción adicional o el fantasma es expulsado por un efecto como el conjuro disipar el bien y el mal. Cuando la posesión termina, el fantasma reaparece en un espacio libre a 5 pies o menos del cuerpo. El objetivo es inmune a la Posesión de este fantasma durante 24 horas tras superar la tirada de salvación o tras terminar la posesión.</p>"
+    },
+    "Sanguine Arts": {
+      "name": "Artes sanguíneas",
+      "description": "<p><i>(Rasgo del Camino del Puño Ensangrentado de nivel 3)</i></p><p>Cuando eliges esta tradición a nivel 3, puedes usar tu ki para reproducir los efectos de ciertos conjuros. Como acción, puedes gastar 2 puntos de ki para lanzar sangre negra, sello de sangre o cuerda sanguínea como conjuros de nivel 2 sin necesidad de componentes materiales. Además, obtienes el truco sangría si aún no lo conoces. Debes seguir pagando los costes de hemomancia de cada conjuro.</p>"
+    },
+    "Sanguine Visions": {
+      "name": "Visiones sanguíneas",
+      "description": "<p><i>(Rasgo de la Senda de la Sangre de nivel 10)</i></p><p>A partir de nivel 10, tocar sangre derramada te permite ver las circunstancias en que se derramó. Como acción, puedes tocar al menos una gota de sangre derramada en las últimas 48 horas. Durante los siguientes 12 segundos quedas ciego y sordo a tus propios sentidos mientras tu mente revive el minuto previo al derramamiento, desde el punto de vista de aquel cuya sangre se derramó.</p>"
+    },
+    "Scent of Death": {
+      "name": "Olor a muerte",
+      "description": "<p><i>(Rasgo de la Senda de la Sangre de nivel 6)</i></p><p>A nivel 6, obtienes la capacidad de oler a los heridos hasta a una milla de distancia y localizar con precisión la dirección del olor. Cuando estás a 1000 pies o menos de la fuente, puedes hacer una prueba de Sabiduría (&amp;Reference[skill=Perception]{Percepción}) CD 15 para determinar su identidad exacta. Si la superas, sabes exactamente quién es la criatura si ya te la habías encontrado; si no, solo averiguas su tipo y la gravedad de su herida. En ambos casos, al superarla conoces la distancia y la dirección exactas de la criatura herida. Si la fallas, sabes que has fallado y no puedes volver a intentarlo durante 1 hora.</p>"
+    },
+    "Shadow Familiar": {
+      "name": "Familiar de sombra",
+      "description": "<p><i>(Rasgo de Acechador Nocturno de nivel 3)</i></p><p>A nivel 3, obtienes la capacidad de invocar una criatura de sombra que te sirva. Como acción adicional en tu turno, puedes conjurar o despedir a tu familiar de sombra, que adopta la forma de una criatura espectral que no puede ser objetivo ni recibir daño. Eliges la forma que puedes crear al escoger esta subclase.</p><p>Cuando conjuras a tu familiar de sombra, aparece en un espacio libre a 30 pies o menos de ti. Mientras esté conjurado, cuando uses la acción Atacar puedes renunciar a uno o más de tus ataques para que tu familiar haga los suyos propios. Estos usan tu modificador de ataque de conjuros de explorador, tienen un alcance de 5 pies y activan cualquier conjuro o rasgo que se activaría con tus ataques con arma (como Marca del cazador). El familiar hace un ataque con arma cuerpo a cuerpo por cada ataque al que renuncies. Mientras estés a 120 pies o menos de él, puedes ordenarle que se mueva (no requiere acción). Las velocidades y los ataques de las tres formas son:</p><h3>Gato</h3><p>Velocidad caminando de 30 pies. Si impacta, su ataque inflige [[/r 1d4]] + tu modificador por Sabiduría de daño cortante, y el siguiente ataque contra el objetivo de una criatura que no seáis tú ni el gato, antes del final de tu siguiente turno, tiene ventaja.</p><h3>Cuervo</h3><p>Velocidad volando de 90 pies y caminando de 10 pies. Si impacta, su ataque inflige [[/r 1d10]] + tu modificador por Sabiduría de daño perforante.</p><h3>Lobo</h3><p>Velocidad caminando de 40 pies. Si impacta, su ataque inflige [[/r 1d6]] + tu modificador por Sabiduría de daño perforante, y el objetivo tiene desventaja en la siguiente tirada de ataque que haga antes del final de su siguiente turno.</p>"
+    },
+    "Shadowy Transposition": {
+      "name": "Transposición sombría",
+      "description": "<p><i>(Rasgo de Acechador Nocturno de nivel 7)</i></p><p>A partir de nivel 7, cada vez que lanzas un conjuro de explorador de nivel 1 o superior, puedes intercambiar tu posición con la de tu familiar justo antes o justo después de lanzarlo.</p>"
+    },
+    "Undead": {
+      "name": "Muerto viviente",
+      "description": "<p>Tu tipo es humanoide y muerto viviente a la vez, así que te afecta cualquier rasgo o capacidad que afecte a cualquiera de los dos tipos. Por ejemplo, pueden lanzarte inmovilizar persona o expulsarte con Expulsar muertos vivientes. La excepción es la curación: cualquier conjuro, rasgo o capacidad que restaure puntos de golpe y normalmente no afecte a muertos vivientes te restaura la mitad de lo normal, en lugar de no tener efecto.</p><p>Por tu naturaleza de muerto viviente, eres inmune a las enfermedades y al estado envenenado, y tienes resistencia al daño de veneno. No necesitas comer ni respirar, aunque puedes ingerir comida o bebida si quieres. En lugar de dormir, entras en un estado inactivo durante 4 horas al día. No sueñas en este estado, pero por lo demás descansar así es igual que dormir. El sueño inducido por magia puede hacerte entrar en este estado inactivo.</p>"
+    },
+    "Animate Blood": {
+      "name": "Animar sangre",
+      "description": "<p>Animas gotas de tu propia sangre para que actúen a tus órdenes. Por cada tres puntos de golpe gastados al lanzar este conjuro, creas una gota de sangre animada.</p><p>Al lanzar el conjuro, y como acción adicional en cada uno de tus turnos posteriores, puedes ordenar mentalmente a las gotas que se muevan, siempre que estén a 120 pies o menos de ti. Las gotas tienen una velocidad de 30 pies y una velocidad trepando de 15 pies.</p><p>Como acción en tu turno, puedes ver y oír desde la posición de una de las gotas hasta el final de tu turno, quedando &amp;Reference[condition=blinded]{cegado} y &amp;Reference[condition=deafened]{ensordecido} respecto a tu propio entorno. También puedes usar tu acción para hacer que una de las gotas explote en un estallido de energía nigromántica, que la destruye y daña a las criaturas cercanas. Cada criatura a 5 pies o menos de la gota debe hacer una tirada de salvación de Destreza: recibe [[/damage 6d4 type=necrotic]] de daño necrótico si falla, o la mitad si la supera.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro con un espacio de nivel 4 o superior, el daño aumenta en [[/r 1d4]] por cada nivel del espacio por encima de 3.</p>"
+    },
+    "Aura of Shade": {
+      "name": "Aura de penumbra",
+      "description": "<p>Creas una esfera de magia de sombras de 15 pies de radio centrada en un punto dentro del alcance. El área parece envuelta en sombras arremolinadas y oscuridad, y se distingue con facilidad cuando está en luz brillante o tenue. La esfera dobla las esquinas, y cada criatura que termine su turno dentro del área queda &amp;Reference[condition=invisible]{invisible}. Esta invisibilidad termina para una criatura si ataca, lanza un conjuro o sale del área. Todo lo que lleve puesto o encima también es invisible mientras ella lo sea.</p>"
+    },
+    "Beacon of False Life": {
+      "name": "Faro de falsa vida",
+      "description": "<p>Emana de ti energía nigromántica en un área de 30 pies de radio. Hasta que el conjuro termine, el área se mueve contigo, centrada en ti. Mientras estéis dentro del área, tú y cada criatura bajo tu control (por ejemplo, con un conjuro de animar a los muertos) obtenéis [[/r 2d4]] puntos de golpe temporales al comienzo de cada uno de vuestros turnos. Estos puntos de golpe temporales duran hasta que salís del área.</p>"
+    },
+    "Blood Seal": {
+      "name": "Sello de sangre",
+      "description": "<p>Te infliges una herida para crear un sello protector sobre otra criatura dentro del alcance. Al lanzar el conjuro, gastas una cantidad de puntos de golpe y el objetivo obtiene [[/r 1d10]] + los puntos de golpe gastados como puntos de golpe temporales mientras dure el conjuro.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro con un espacio de nivel 3 o superior, el objetivo obtiene [[/r 1d10]] puntos de golpe temporales adicionales por cada nivel del espacio por encima de 2.</p>"
+    },
+    "Bloodburn": {
+      "name": "Sangre ardiente",
+      "description": "<p>Te infliges un dolor abrasador para que otra criatura que puedas ver dentro del alcance sienta un dolor aún más atroz mientras le hierve la sangre. Al lanzar el conjuro, debes gastar una cantidad de puntos de golpe. Después, la criatura debe hacer una tirada de salvación de Constitución. Si falla, recibe [[/damage 2d6]] + los puntos de golpe gastados como daño de fuego y cae &amp;Reference[condition=prone]{derribada} al instante, retorcida de dolor. Si la supera, recibe la mitad del daño y no cae derribada. Los autómatas, elementales y muertos vivientes son inmunes a este conjuro.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro con un espacio de nivel 2 o superior, el daño aumenta en [[/r 1d6]] por cada nivel del espacio por encima de 1.</p>"
+    },
+    "Bloodcurse": {
+      "name": "Maldición de sangre",
+      "description": "<p>Tocas la herida abierta de una criatura y le lanzas una maldición. Al gastar una cantidad de puntos de golpe para lanzar el conjuro, la criatura debe superar una tirada de salvación de Sabiduría o quedará maldita. Durante el lanzamiento, puedes hacer una prueba de Carisma (&amp;Reference[skill=Deception]{Engaño}) contra una prueba de Sabiduría (&amp;Reference[skill=Insight]{Perspicacia}) del objetivo para ocultar la verdadera naturaleza del conjuro, por ejemplo fingiendo que le vendas la herida.</p><p>La maldición no surte efecto hasta pasada 1 hora. A partir de entonces dura tantos días como puntos de golpe gastaste, y mientras dura la criatura maldita no puede recuperar puntos de golpe y está &amp;Reference[condition=poisoned]{envenenada}. Cada 8 horas que pase maldita, recibe [[/damage 3d4 type=necrotic]] de daño necrótico mientras la maldición la va pudriendo.</p><p>Un conjuro de quitar maldición termina este efecto.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro con un espacio de nivel 6 o superior, el daño aumenta en [[/r 1d4]] por cada nivel del espacio por encima de 5.</p>"
+    },
+    "Bloodletting": {
+      "name": "Sangría",
+      "description": "<p>Tocas a una criatura y gastas 1 punto de golpe para abrirle una herida donde la tocas. Haz un ataque de conjuro cuerpo a cuerpo contra el objetivo. Si impacta, recibe [[/damage 1d12 type=necrotic]] de daño necrótico. Si este daño reduce al objetivo a 0 puntos de golpe, obtienes tantos puntos de golpe temporales como la mitad del daño infligido, que duran hasta 1 minuto.</p><p>El daño del conjuro aumenta en [[/r 1d12]] cuando alcanzas el nivel 5 ([[/r 2d12]]), el nivel 11 ([[/r 3d12]]) y el nivel 17 ([[/r 4d12]]).</p>"
+    },
+    "Bloodsight": {
+      "name": "Vista de sangre",
+      "description": "<p>Te extraes un poco de sangre y tus ojos adquieren un tono carmesí. Mientras dure el conjuro, puedes ver la fuerza vital de las criaturas cercanas. El alcance de esta visión, en pies, es 5 veces los puntos de golpe gastados en el conjuro.</p><p>Una criatura con la salud completa parece normal, pero a medida que se hiere empieza a rodearla un aura roja. Puedes notar cuándo los puntos de golpe actuales de una criatura bajan de la mitad o de una cuarta parte de su máximo. Si una criatura tiene menos de la mitad de sus puntos de golpe máximos, puedes verla incluso a través de paredes y de la invisibilidad.</p><p><strong>A niveles superiores.</strong> Si lanzas este conjuro con un espacio de nivel 5 o superior, dura 1 hora; con uno de nivel 7 o superior, 8 horas; y con uno de nivel 9, 24 horas. Con un espacio de nivel 5 o superior, el conjuro no requiere concentración.</p>"
+    },
+    "Cruorwhip": {
+      "name": "Látigo de cruor",
+      "description": "<p>Creas un látigo con tu propia sangre en tu mano libre. Gastando una cantidad de puntos de golpe, creas un látigo del tamaño y la forma de uno normal. Si lo sueltas, desaparece, pero puedes volver a crearlo como acción adicional.</p><p>Puedes usar tu acción para hacer un ataque de conjuro cuerpo a cuerpo con el látigo. Por cada 5 puntos de golpe gastados al lanzar el conjuro, el alcance aumenta 5 pies, con un coste mínimo de 5 puntos de golpe. Si impacta, el objetivo recibe [[/damage 2d6 type=necrotic]] de daño necrótico.</p><p><strong>A niveles superiores.</strong> Con un espacio de nivel 3 o superior, el daño sube a [[/r 3d6]]; con uno de nivel 5 o superior, a [[/r 4d6]]; con uno de nivel 7 o superior, a [[/r 5d6]]; y con uno de nivel 9, a [[/r 6d6]].</p>"
+    },
+    "Draining Thread": {
+      "name": "Hilo drenante",
+      "description": "<p>Te abres una herida y disparas un hilo de sangre entre tú y una criatura dentro del alcance. Al lanzar el conjuro, debes gastar una cantidad de puntos de golpe. Después, la criatura debe superar una tirada de salvación de Destreza o recibirá [[/damage 7d6]] + los puntos de golpe gastados como daño necrótico. Si este daño reduce al objetivo a 0 puntos de golpe, recuperas la mitad del coste en puntos de golpe, pues la sangre vuelve a tu cuerpo a través del hilo.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro con un espacio de nivel 5 o superior, el daño aumenta en [[/r 2d6]] por cada nivel del espacio por encima de 4.</p>"
+    },
+    "Hand of the Grave": {
+      "name": "Mano de la tumba",
+      "description": "<p>Al lanzar este conjuro, entierras una mano humanoide en una zona de tierra suelta de al menos 5 pies de diámetro para ocultarla. El área parece casi intacta, y encontrarla requiere superar una prueba de Inteligencia (&amp;Reference[skill=Investigation]{Investigación}) contra la CD de salvación de tus conjuros.</p><p>La mano se anima cuando una criatura Mediana o más pequeña pisa esa tierra. Puedes afinar el desencadenante para que el conjuro se active solo en ciertas circunstancias o según características físicas (como la altura o el peso), el tipo de criatura (por ejemplo, solo aberraciones o drows) o el alineamiento. También puedes fijar condiciones para las criaturas que no lo activan, como quienes digan cierta contraseña.</p><p>Cuando la mano se anima, intenta agarrar a la criatura que la activó. Esa criatura debe superar una tirada de salvación de Fuerza o recibirá [[/damage 2d6 type=bludgeoning]] de daño contundente y quedará &amp;Reference[condition=restrained]{apresada} por la mano con una fuerza inhumana. La criatura puede usar una acción en su turno para hacer una prueba de Fuerza contra la CD de salvación de tus conjuros y liberarse si la supera. Tras 1 minuto animada, el conjuro termina y la mano vuelve a la normalidad. Si la criatura muere mientras está apresada, la mano la arrastra bajo tierra y la entierra.</p>"
+    },
+    "Lacerate": {
+      "name": "Lacerar",
+      "description": "<p>Dos haces de energía necrótica salen de las puntas de tus dedos hacia una criatura dentro del alcance. Haz dos ataques de conjuro a distancia contra el objetivo. Cada uno que impacte inflige [[/damage 1d4 type=necrotic]] de daño necrótico. Si impactan los dos, golpean a la vez como una sola instancia de daño, y los puntos de golpe máximos del objetivo se reducen en tanto como el daño necrótico recibido. Sus puntos de golpe máximos vuelven a la normalidad pasados 10 minutos.</p><p>El daño del conjuro aumenta en [[/r 1d4]] cuando alcanzas el nivel 5 ([[/r 2d4]]), el nivel 11 ([[/r 3d4]]) y el nivel 17 ([[/r 4d4]]).</p>"
+    },
+    "Life Thread": {
+      "name": "Hilo vital",
+      "description": "<p>Creas un hilo que ata tu alma a la de una criatura a 5 pies o menos de ti. Si esa criatura se aleja más de 5 pies de ti, debe superar una tirada de salvación de Carisma o recibirá [[/damage 2d6 type=necrotic]] de daño necrótico, y el conjuro termina. También termina si tú te alejas más de 5 pies de la criatura.</p><p>El daño del conjuro aumenta en [[/r 2d6]] cuando alcanzas el nivel 5 ([[/r 4d6]]), el nivel 11 ([[/r 6d6]]) y el nivel 17 ([[/r 8d6]]).</p>"
+    },
+    "Necromantic Burst": {
+      "name": "Estallido nigromántico",
+      "description": "<p>Haces que el cadáver de una criatura estalle en una ráfaga de energía necrótica. Elige un cadáver dentro del alcance. La criatura y todo lo que lleve encima, salvo los objetos mágicos, quedan reducidos a polvo negro. Solo puede volver a la vida mediante reencarnar, resurrección verdadera o deseo. Cada criatura a 5 pies o menos del objetivo debe superar una tirada de salvación de Destreza o recibirá [[/damage 3d8 type=necrotic]] de daño necrótico.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro con un espacio de nivel 3 o superior, el daño aumenta en [[/r 1d8]] por cada nivel del espacio por encima de 2.</p>"
+    },
+    "Ray of Fatigue": {
+      "name": "Rayo de fatiga",
+      "description": "<p>Haces que el &amp;Reference[condition=exhaustion]{cansancio} se apodere de una criatura de tu elección. La criatura debe hacer una tirada de salvación de Constitución. Si falla, gana un nivel de cansancio. Si la supera, no sufre ningún efecto y el conjuro termina. Al comienzo de cada uno de sus turnos, debe repetir la tirada: gana un nivel de cansancio si falla, y el conjuro termina si la supera. El conjuro termina antes si el nivel de cansancio del objetivo llega a 4 o más.</p>"
+    },
+    "Sanguine Rope": {
+      "name": "Cuerda sanguínea",
+      "description": "<p>Te extraes un poco de sangre y le das forma de cuerda, con la que puedes impulsarte hacia un lugar o atraer hacia ti un objeto o una criatura. Al lanzar el conjuro, debes gastar una cantidad de puntos de golpe. Después lanzas al instante la cuerda para agarrar un objetivo que puedas ver dentro de un alcance, en pies, de 5 veces los puntos de golpe gastados. Una vez que lo agarras, puedes impulsarte hasta un lugar a 5 pies o menos del objetivo, o intentar atraerlo hasta un lugar a 5 pies o menos de ti. Para atraerlo, debe pesar menos de 100 libras y, si es una criatura, puede hacer una tirada de salvación de Fuerza para evitarlo. Si te impulsas hacia un objetivo, te mueves en línea recta hacia él y provocas ataques de oportunidad con normalidad.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro con un espacio de nivel 3 o superior, el peso que puedes atraer aumenta en 100 libras por cada nivel del espacio por encima de 2.</p>"
+    },
+    "Sanguine Sanctum": {
+      "name": "Santuario sanguíneo",
+      "description": "<p>Transformas tu sangre en una cúpula protectora de 10 pies de radio que se forma a tu alrededor y por encima de ti, y que permanece inmóvil mientras dura el conjuro. La cúpula puede ser dañada y tiene 20 puntos de golpe + el doble de los puntos de golpe gastados al lanzar el conjuro. Ninguna criatura dentro de la cúpula puede ser objetivo de criaturas de fuera, ni al revés. Los conjuros y ataques que pasarían o se extenderían a través de la cúpula impactan en ella, la dañan y no llegan más lejos. Mientras dure la cúpula, puedes usar tu acción para gastar puntos de golpe y sumarlos a los puntos de golpe actuales de la cúpula.</p><p>Caben contigo en la cúpula nueve criaturas Medianas o más pequeñas. El conjuro falla si su área incluye una criatura más grande o más de nueve criaturas. Las criaturas y objetos que estén dentro al lanzar el conjuro pueden atravesarla libremente. Todas las demás criaturas y objetos no pueden atravesarla.</p><p>La cúpula es semitransparente: se puede ver a través de ella, pero lo que se ve a través de sus paredes aparece distorsionado y teñido del rojo de la cúpula.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro con un espacio de nivel 5 o superior, los puntos de golpe base de la cúpula aumentan en 5 por cada nivel del espacio por encima de 4.</p>"
+    },
+    "Tides of Blood": {
+      "name": "Mareas de sangre",
+      "description": "<p>Extraes tu propia sangre y la de los cadáveres a 20 pies o menos de ti. Puedes gastar una cantidad de puntos de golpe, y también obtener de los cadáveres en el radio los puntos de golpe necesarios, salvo de los de autómatas, elementales y muertos vivientes. Cada cadáver que en vida tuviera 5 o más puntos de golpe máximos aporta 5 puntos de golpe al lanzamiento, y después no puede volver a usarse para este conjuro.</p><p>Como acción adicional en tu siguiente turno, puedes liberar la sangre. Cada criatura a 20 pies o menos de ti debe hacer una tirada de salvación de Destreza. Si falla, recibe [[/damage 4d6]] + los puntos de golpe obtenidos o gastados como daño necrótico. Si la supera, recibe la mitad.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro con un espacio de nivel 4 o superior, el daño aumenta en [[/r 1d6]] por cada nivel del espacio por encima de 3.</p>"
+    },
+    "Umbraturgy": {
+      "name": "Umbraturgia",
+      "description": "<p>Obligas a las sombras a crear uno de los siguientes efectos en un punto que puedas ver dentro del alcance:</p><ul><li>La sombra de una criatura u objeto cambia de tamaño o forma, hasta el doble o la mitad de su tamaño normal. Este efecto dura hasta 1 hora.</li><li>Haces que las sombras oculten hasta 2 criaturas dentro de un área de 15 pies de radio de luz tenue u oscuridad, lo que les permite Esconderse como acción adicional en su siguiente turno si siguen en el área.</li><li>La sombra de una criatura u objeto se vuelve borrosa o nítida, de modo que resulta más fácil o más difícil distinguir su forma por la sombra. Este efecto dura hasta 1 hora.</li></ul><p>Si lanzas este conjuro varias veces, solo puedes tener activos a la vez dos de sus efectos no instantáneos, y puedes terminar uno de ellos como acción.</p>"
+    },
+    "Vampire's Kiss": {
+      "name": "Beso del vampiro",
+      "description": "<p>Te extraes un poco de sangre mientras besas a otro humanoide. Al lanzar el conjuro, debes gastar una cantidad de puntos de golpe. El objetivo debe hacer una tirada de salvación de Sabiduría, con ventaja si tú o tus compañeros estáis luchando contra él. Si falla, queda &amp;Reference[condition=charmed]{hechizado} por ti durante 10 minutos por cada punto de golpe gastado, y el efecto termina antes si tú o tus compañeros le hacéis algún daño. La criatura hechizada se enamora perdidamente de ti. Cuando el conjuro termina, sabe que la hechizaste.</p>"
+    },
+    "Blood Knight": {
+      "name": "Caballero de Sangre",
+      "description": "<p>El Caballero de Sangre arquetípico usa su propia carne y sangre para masacrar a sus enemigos. Para él, la batalla lo es todo. No le mueve tanto ganar o perder como la oportunidad de una buena pelea, y cuando la encuentra usa todo lo que tiene contra su rival. Se vale de sacrificios de sangre para lanzar conjuros y obtener capacidades ofensivas y defensivas adicionales, aunque a un precio muy alto.</p>"
+    },
+    "Deathtouched": {
+      "name": "Tocado por la Muerte",
+      "description": "<p>Tu magia innata procede de un encuentro pasado con la muerte. Lo más habitual es que este origen se remonte a sobrevivir al ataque de un muerto viviente, como el mordisco de un vampiro, la posesión de un fantasma o el drenaje de vida de un espectro. O puede venir de una resurrección imperfecta o una experiencia cercana a la muerte. Sea como fuere que obtuviste esta magia oscura, ahora dicta tu vida y aumenta enormemente tu poder.</p>"
+    },
+    "Nightstalker": {
+      "name": "Acechador Nocturno",
+      "description": "<p>El arquetipo del Acechador Nocturno emula una forma única de magia de sombras que crea familiares sombríos que te acompañan en combate. En este camino aprendes a usar a tu familiar de sombra como una extensión de ti mismo, como un arma, mientras acechas por los bosques en penumbra y las vastas llanuras del mundo en busca de tu presa. El familiar que elijas define tu estilo de combate, pues cada uno cumple un papel distinto en la caza y en el campo de batalla.</p><h4>Explorador de Unearthed Arcana</h4><p>Si estás probando el explorador de Unearthed Arcana, puedes usar esta subclase con él añadiendo una cosa: dale a la subclase el rasgo Ataque adicional.</p><p><strong>Ataque adicional.</strong> A partir de nivel 5, puedes atacar dos veces, en lugar de una, cada vez que uses la acción Atacar en tu turno.</p>"
+    },
+    "Path of Blood": {
+      "name": "Senda de la Sangre",
+      "description": "<p>La Senda de la Sangre solo la siguen los bárbaros más despiadados y ávidos de batalla. No les importa derramar su propia sangre; de hecho, usan esa energía para potenciar aún más su furia y convierten su sufrimiento en heridas para sus enemigos mediante vínculos mágicos de sangre.</p><p>Aunque a primera vista parezca alimentada por las mismas fuerzas que la Senda del Berserker, la Senda de la Sangre es mucho más mágica. Los furiosos de sangre usan su sangre como una forma de hemomancia, una magia basada en sacrificios de sangre.</p>"
+    },
+    "School of Hemomancy": {
+      "name": "Escuela de Hemomancia",
+      "description": "<p>La Escuela de Hemomancia estudia el antiguo arte arcano de la magia de sangre. Al elegir esta tradición, aprendes a manipular tu propia fuerza vital para poder manipular la de los demás. A medida que avanzas en ella, aprendes a transformar esa energía vital en una fuerza de poder inconmensurable, capaz de derrotar incluso a los enemigos más grandes.</p>"
+    },
+    "Way of the Bloodied Fist": {
+      "name": "Camino del Puño Ensangrentado",
+      "description": "<p>Los monjes del Camino del Puño Ensangrentado siguen una tradición que les enseña a controlar su propia fuerza vital y la de sus enemigos. Concentrando su ki, ejercen control sobre la sangre, una herramienta poderosa que no conviene subestimar. Sus monasterios practican en secreto, en cuevas oscuras y altas montañas, lejos de la gente común, y sus miembros solo salen para las raras misiones que encargan los más desesperados.</p><p>Muchos monjes de esta tradición están cubiertos de cicatrices, unas autoinfligidas durante su entrenamiento y otras ganadas en combate. A menudo usan sus energías místicas para moldear esas cicatrices en diseños y símbolos complejos que representan sus poderes de ki.</p>"
+    },
+    "Cheat": {
+      "name": "Trampa",
+      "description": "<p>Retuerces sutilmente los dedos y el destino parece seguirte. Mientras dure el conjuro, puedes volver a tirar cualquier prueba de característica que hagas en juegos de habilidad no mágicos. Así, este conjuro podría influir en una partida de póker, pero no en el resultado de una Baraja de muchas cosas.</p>"
+    },
+    "Finger Guns": {
+      "name": "Pistola de dedos",
+      "description": "<p>Extiendes el índice y el pulgar en un gesto peligroso que imita una pistola. Mientras dure el conjuro, puedes usar tu acción para hacer una tirada de ataque de conjuro contra una criatura que puedas ver a 60 pies o menos, que inflige [[/damage 1d8 type=force]] de daño de fuerza si impacta.</p><p>Tu pistola de dedos se considera un bláster (pero no tecnología mágica) para los conjuros y efectos que afectan a los blásteres.</p><p>El daño del conjuro aumenta en [[/r 1d8]] cuando alcanzas el nivel 5 ([[/r 2d8]]), el nivel 11 ([[/r 3d8]]) y el nivel 17 ([[/r 4d8]]).</p>"
+    },
+    "Voidlight": {
+      "name": "Luz del Vacío",
+      "description": "<p>Durante el más breve de los instantes, abres un portal al Vacío y revelas las horribles luces del otro lado. Elige una criatura que puedas ver para que haga una tirada de salvación de Constitución, con ventaja si no puede verte. Si falla, recibe [[/damage 1d8 type=radiant]] de daño radiante. Si sacas un 8 en algún dado de daño, puedes tirar un [[/r d8]] adicional y sumarlo al total, y volver a tirar si ese dado también saca 8, y así sucesivamente. Puedes tirar en total un número de dados de daño igual al doble de los que tiraste al principio.</p><p>El daño de este conjuro aumenta en [[/r 1d8]] cuando alcanzas el nivel 5 ([[/r 2d8]]), el nivel 11 ([[/r 3d8]]) y el nivel 17 ([[/r 4d8]]).</p>"
+    },
+    "Arboreal Curse": {
+      "name": "Maldición arbórea",
+      "description": "<p>Intentas convertir en madera a una criatura que puedas ver dentro del alcance. Si su cuerpo es de carne, la criatura debe hacer una tirada de salvación de Constitución. Si falla, queda &amp;Reference[condition=restrained]{apresada} mientras su carne empieza a endurecerse como la corteza. Si la supera, no le afecta.</p><p>Una criatura apresada por este conjuro debe hacer otra tirada de salvación de Constitución al final de cada uno de sus turnos. Si supera tres, el conjuro termina. Si falla tres, se convierte en un árbol y queda &amp;Reference[condition=petrified]{petrificada} mientras dure el conjuro. Los éxitos y fallos no tienen que ser consecutivos; lleva la cuenta de ambos hasta que el objetivo acumule tres de un tipo.</p><p>Si la criatura transformada es quemada, talada o destruida de otro modo mientras está petrificada, muere.</p><p>La criatura sigue transformada a menos que el efecto se revierta antes de un año con restablecimiento mayor, deseo o efectos mágicos similares. Si pasa un año y un día como árbol, la transformación se vuelve permanente y nada puede devolverle su forma original.</p>"
+    },
+    "Consume Mind": {
+      "name": "Consumir mente",
+      "description": "<p>Consumes el cerebro del cadáver de otra criatura y obtienes sus recuerdos y conocimientos. El cadáver debe tener cerebro y no puede ser un muerto viviente. El conjuro falla si la criatura lleva muerta (y sin conservar) más de tres días.</p><p>Hasta que el conjuro termine, puedes intentar recordar cualquier dato importante que conociera la criatura: historia familiar, sucesos recientes, planos de edificios, contraseñas, detalles de su muerte e información similar. Para recordar un dato, haz una prueba de característica con tu modificador de lanzamiento de conjuros. La CD es igual a la puntuación de Inteligencia del cadáver.</p><p>Una vez que tiras para recordar un dato, no puedes volver a intentarlo con ese mismo dato.</p>"
+    },
+    "Wrack": {
+      "name": "Tormento",
+      "description": "<p>Elige una criatura que puedas ver dentro del alcance. El objetivo debe superar una tirada de salvación de Constitución o sufrirá espasmos musculares atroces mientras dure el conjuro. Una criatura afectada así ve reducida su velocidad a la mitad y tiene desventaja en sus ataques. Al final de cada uno de sus turnos, puede hacer otra tirada de salvación de Constitución; si la supera, el conjuro termina para ella.</p>"
+    },
+    "Feathered Reach": {
+      "name": "Alcance emplumado",
+      "description": "<p>Transformas tus brazos en alas poderosas y tus dedos en largas y elegantes plumas. Los efectos duran 1 minuto; después, las plumas se caen poco a poco y flotas suavemente hasta el suelo mientras tus brazos recuperan su forma original. Este conjuro te concede varios beneficios:</p><ul><li>Como acción adicional, puedes volar hasta el doble de tu velocidad. Debes aterrizar al terminar tu movimiento, aunque no recibes daño por caída mientras dure el conjuro, porque tus brazos emplumados te posan con suavidad en el suelo.</li><li>Puedes usar tus poderosos brazos emplumados para impulsarte hacia arriba una distancia igual a la mitad de tu velocidad. Puedes hacerlo una vez en tu turno, incluso combinado con un salto normal.</li><li>Al caer, puedes usar tu reacción para tensar los brazos y planear con el viento. Puedes volar hasta tu velocidad en cualquier dirección y elegir dónde aterrizas.</li><li>Tienes ventaja en todas las pruebas de &amp;Reference[skill=Athletics]{Atletismo} para hacer un salto largo o alto. No necesitas moverte 10 pies antes de saltar para tomar impulso, y triplicas la distancia que saltarías normalmente.</li></ul><p>Para beneficiarte de este conjuro, tus manos deben estar libres de escudos y armas pesadas, y no puedes ir sobrecargado.</p>"
+    },
+    "Globe of Twilight": {
+      "name": "Globo crepuscular",
+      "description": "<p>Envuelves la zona a tu alrededor en una esfera de cielo nocturno salpicada de estrellas diminutas. El crepúsculo oculta a tus aliados, pero ilumina con claridad a tus enemigos.</p><p>El área del conjuro está ligeramente oscurecida por sombras mágicas en las que brillan suavemente pequeñas constelaciones. Aparte de esas estrellas, solo la luz de un conjuro de nivel 3 o superior puede iluminar de verdad el interior de la esfera. La luz no mágica no funciona dentro, y cualquier otro resplandor mágico solo produce luz tenue en un espacio de 5 pies.</p><p>Al lanzar el conjuro, puedes designar a cualquier número de criaturas que puedas ver para que las sombras sobrenaturales las oculten mientras estén en la esfera. Una criatura oculta tiene ventaja en las pruebas de Destreza (&amp;Reference[skill=Stealth]{Sigilo}) dentro de la esfera y puede intentar esconderse en cualquier momento. Como el área está ligeramente oscurecida, las criaturas de dentro tienen desventaja en las pruebas de Sabiduría (&amp;Reference[skill=Perception]{Percepción}) para ver a las de fuera.</p><p>Todas las demás criaturas en el área quedan deslumbradas por la luz de las estrellas diminutas y tienen desventaja en todas las pruebas de percepción dentro de la esfera. Cuando una de ellas entra en el área por primera vez o empieza allí su turno, debe hacer una tirada de salvación de Sabiduría o quedará &amp;Reference[condition=blinded]{cegada} hasta el final de su turno.</p>"
+    },
+    "Invoke the Amaranthine": {
+      "name": "Invocar a los Amarantinos",
+      "description": "<p>Recurres al poder de un Amarantino para obtener una visión del Gran Ritmo que mueve todas las cosas. Al lanzar este conjuro, tira dos [[/r d20]] y anota los resultados. Para cada dado, elige tirada de ataque, prueba de habilidad o tirada de salvación; puedes elegir la misma opción varias veces. Durante las siguientes 24 horas, puedes sustituir cualquier tirada de un aliado o enemigo que puedas ver a 60 pies o menos por uno de los resultados anotados que coincida con el tipo de tirada que quieres reemplazar. El objetivo sigue sumando sus modificadores, pero por lo demás trata el número sustituido como el que sacó.</p><p>Para hacerlo, debes gastar una reacción para mostrar tu símbolo sagrado e invocar el nombre del Amarantino cuyo poder invocaste. Puedes hacerlo en cualquier momento después de tirar la prueba, la salvación o el ataque, pero antes de que se determine el resultado. El conjuro termina pasadas 24 horas o cuando hayas gastado ambos dados.</p>"
+    },
+    "Shape Plants": {
+      "name": "Moldear plantas",
+      "description": "<p>Recurres a una suave magia natural para alterar el crecimiento de las plantas. Cualquier vegetación que puedas ver dentro del alcance y quepa en un cubo de 5 pies puede adoptar la forma que desees. Además, si la planta es una zarza o puede tener espinas, puedes convertir el área en terreno difícil que inflige [[/r 2d4]] de daño perforante por cada 5 pies que se recorran por la zona que moldeaste. También puedes aumentar o reducir el número de flores, enredaderas, hojas, espinas, ramas o frutos de cualquier planta que moldees.</p><p>Pasada una hora, la magia se desvanece y la planta recupera su forma normal. Si puedes usar hablar con las plantas (o una capacidad similar) para comunicarte con ella, puedes convencerla de que conserve su nueva forma. Cada planta tiene sus propios sentimientos y actitudes, y si la forma es muy distinta de la natural probablemente se negará. Si acepta, a discreción del DM, conservará la forma que le diste y el efecto será permanente.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro con un espacio de nivel superior a 4, el tamaño del cubo de vegetación que puedes afectar aumenta 5 pies por cada nivel del espacio por encima de 4.</p>"
+    },
+    "Spiny Shield": {
+      "name": "Escudo de púas",
+      "description": "<p>Una barrera etérea de púas hecha de fuerza mágica se interpone entre tú y un atacante. Hasta tu siguiente turno, cuando te impacte un ataque cuerpo a cuerpo, la barrera reduce el daño que recibes en [[/r 2d4]] e inflige esa misma cantidad de daño perforante al atacante. El escudo no sirve contra los atacantes a distancia, pero te da un bonificador de +2 a la CA contra ellos (como cobertura media) mientras dure.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro con un espacio de nivel superior a 1, el efecto aumenta en [[/r 1d4]] por cada nivel del espacio por encima de 1.</p>"
+    },
+    "Stellar Bodies": {
+      "name": "Cuerpos estelares",
+      "description": "<p>Creas dos pequeñas estrellas que orbitan a tu alrededor. Brillan agradablemente y emiten luz tenue en un radio de 10 pies centrado en ti. Las estrellas te protegen: si una criatura a 5 pies o menos de ti te impacta con un ataque cuerpo a cuerpo, debe hacer una tirada de salvación de Sabiduría o recibirá [[/r 1d8]] de daño radiante por cada estrella que te orbite.</p><p>Una vez por ronda, en tu turno, puedes usar tu acción para lanzar una estrella contra un enemigo, gastándola cuando explota en un destello cegador. Haz un ataque de conjuro a distancia contra un enemigo a 120 pies o menos, que inflige [[/damage 4d8]] de daño radiante si impacta. Después, el objetivo debe hacer una tirada de salvación de Constitución o quedará &amp;Reference[condition=blinded]{cegado} hasta el comienzo de tu siguiente turno.</p><p>El conjuro termina cuando expira su duración, cuando quedas &amp;Reference[condition=unconscious]{inconsciente} o cuando has gastado todas tus estrellas.</p><p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro con un espacio de nivel superior a 4, puedes crear una estrella adicional por cada dos niveles del espacio por encima de 4. Por cada estrella adicional, el radio de luz tenue centrado en ti aumenta 5 pies.</p>"
+    },
+    "Veil of Dusk": {
+      "name": "Velo del ocaso",
+      "description": "<p>Pronuncias un conjuro hacia una criatura y la envuelves en un velo sombrío de oscuridad y silencio. El objetivo obtiene un bonificador de +1 a su clase de armadura y tiene ventaja en las pruebas de &amp;Reference[skill=Stealth]{Sigilo} mientras dure el conjuro.</p>"
+    },
+    "Freedom of the Waves": {
+      "name": "Libertad de las olas",
+      "description": "<p>Conjuras una avalancha de agua de mar en un cilindro de 15 pies de radio y 10 de alto centrado en un punto dentro del alcance. El agua adopta la forma de un maremoto, un remolino, una tromba marina u otra de tu elección. Cada criatura en el área debe superar una tirada de salvación de Fuerza contra la CD de salvación de tus conjuros o recibirá [[/damage 2d8 type=bludgeoning]] de daño contundente y caerá &amp;Reference[condition=prone]{derribada}. Puedes elegir tantas criaturas como tu modificador de lanzamiento de conjuros (mínimo 1) para que superen automáticamente la tirada.</p><p>Si estás dentro del área del conjuro, como parte de la acción con la que lo lanzas puedes desaparecer en la avalancha y teletransportarte a un espacio libre que puedas ver dentro del área.</p>"
+    },
+    "Freedom of the Winds": {
+      "name": "Libertad de los vientos",
+      "description": "<p>El viento envuelve tu cuerpo, te tira del pelo y de la ropa, y tus pies se separan del suelo. Obtienes una velocidad volando de 60 pies. Además, tienes ventaja en las pruebas de característica para evitar quedar &amp;Reference[condition=grappled]{agarrado} y en las tiradas de salvación para no quedar &amp;Reference[condition=restrained]{apresado} ni &amp;Reference[condition=paralyzed]{paralizado}.</p><p>Mientras este conjuro esté activo, cuando seas objetivo de un conjuro o ataque, puedes usar tu reacción para teletransportarte hasta 60 pies a un espacio libre que puedas ver. Si este movimiento te saca del alcance del conjuro o ataque, no te afecta. El conjuro termina cuando reapareces.</p>"
     }
   }
 }
