@@ -96,6 +96,1156 @@
     "Channel Divinity: Harness Divine Power": {
       "name": "Canalizar Divinidad: Aprovechar el poder divino",
       "description": "<p><i>Rasgo de clase opcional de clérigo de nivel 2</i></p><p>Puedes gastar un uso de tu Canalizar Divinidad para alimentar tus conjuros. Como acción adicional, tocas tu símbolo sagrado, pronuncias una plegaria y recuperas un espacio de conjuro gastado cuyo nivel no puede superar la mitad de tu bonificador por competencia (redondeando hacia arriba). El número de usos de este rasgo depende de tu nivel en esta clase: una vez a nivel 2, dos veces a nivel 6 y tres veces a nivel 18. Recuperas todos los usos gastados al terminar un descanso largo.</p>"
+    },
+    "WYLUOYCfqxebYnt4": {
+      "name": "Edad",
+      "description": "<p>Aunque los elfos alcanzan la madurez física más o menos a la misma edad que los humanos, para ellos la edad adulta va más allá del crecimiento físico e incluye la experiencia del mundo. Un elfo suele reclamar la edad adulta y un nombre de adulto hacia los 100 años, y puede vivir hasta 750.</p>"
+    },
+    "rlI9lDspeahGEyZA": {
+      "name": "Edad",
+      "description": "<p>Aunque los elfos alcanzan la madurez física más o menos a la misma edad que los humanos, para ellos la edad adulta va más allá del crecimiento físico e incluye la experiencia del mundo. Un elfo suele reclamar la edad adulta y un nombre de adulto hacia los 100 años, y puede vivir hasta 750.</p>"
+    },
+    "6MPM183Drf4HIyZ7": {
+      "name": "Edad",
+      "description": "<p>Aunque los elfos alcanzan la madurez física más o menos a la misma edad que los humanos, para ellos la edad adulta va más allá del crecimiento físico e incluye la experiencia del mundo. Un elfo suele reclamar la edad adulta y un nombre de adulto hacia los 100 años, y puede vivir hasta 750.</p>"
+    },
+    "1qfXYrNaODpZZ8Oj": {
+      "name": "Edad",
+      "description": "<p>Aunque los elfos alcanzan la madurez física más o menos a la misma edad que los humanos, para ellos la edad adulta va más allá del crecimiento físico e incluye la experiencia del mundo. Un elfo suele reclamar la edad adulta y un nombre de adulto hacia los 100 años, y puede vivir hasta 750.</p>"
+    },
+    "Txk6ZKoCsUu4TEcD": {
+      "name": "Edad",
+      "description": "<p>Aunque los elfos alcanzan la madurez física más o menos a la misma edad que los humanos, para ellos la edad adulta va más allá del crecimiento físico e incluye la experiencia del mundo. Un elfo suele reclamar la edad adulta y un nombre de adulto hacia los 100 años, y puede vivir hasta 750.</p>"
+    },
+    "OTBpIuHLIDvVOcGZ": {
+      "name": "Edad",
+      "description": "<p>Aunque los elfos alcanzan la madurez física más o menos a la misma edad que los humanos, para ellos la edad adulta va más allá del crecimiento físico e incluye la experiencia del mundo. Un elfo suele reclamar la edad adulta y un nombre de adulto hacia los 100 años, y puede vivir hasta 750.</p>"
+    },
+    "8y5HregbMcAyiVFd": {
+      "name": "Edad",
+      "description": "<p>Aunque los elfos alcanzan la madurez física más o menos a la misma edad que los humanos, para ellos la edad adulta va más allá del crecimiento físico e incluye la experiencia del mundo. Un elfo suele reclamar la edad adulta y un nombre de adulto hacia los 100 años, y puede vivir hasta 750.</p>"
+    },
+    "cWN8KLwiQsV765j1": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y élfico. El élfico es fluido, con entonaciones sutiles y una gramática intrincada. Su literatura es rica y variada, y sus canciones y poemas son famosos entre otras razas. Muchos bardos aprenden su idioma para añadir baladas élficas a su repertorio.</p>"
+    },
+    "nPrgC5L9IMj4IXsv": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y élfico. El élfico es fluido, con entonaciones sutiles y una gramática intrincada. Su literatura es rica y variada, y sus canciones y poemas son famosos entre otras razas. Muchos bardos aprenden su idioma para añadir baladas élficas a su repertorio.</p>"
+    },
+    "YvStU3xUdD8GrvTT": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y élfico. El élfico es fluido, con entonaciones sutiles y una gramática intrincada. Su literatura es rica y variada, y sus canciones y poemas son famosos entre otras razas. Muchos bardos aprenden su idioma para añadir baladas élficas a su repertorio.</p>"
+    },
+    "ozJMbxZHzD2Kln2i": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y élfico. El élfico es fluido, con entonaciones sutiles y una gramática intrincada. Su literatura es rica y variada, y sus canciones y poemas son famosos entre otras razas. Muchos bardos aprenden su idioma para añadir baladas élficas a su repertorio.</p>"
+    },
+    "gfK6CgncgANnHzuS": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y élfico. El élfico es fluido, con entonaciones sutiles y una gramática intrincada. Su literatura es rica y variada, y sus canciones y poemas son famosos entre otras razas. Muchos bardos aprenden su idioma para añadir baladas élficas a su repertorio.</p>"
+    },
+    "mfaxoxDGZVFwwBO7": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y élfico. El élfico es fluido, con entonaciones sutiles y una gramática intrincada. Su literatura es rica y variada, y sus canciones y poemas son famosos entre otras razas. Muchos bardos aprenden su idioma para añadir baladas élficas a su repertorio.</p>"
+    },
+    "V5rIbiLhWIcHAVNd": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y élfico. El élfico es fluido, con entonaciones sutiles y una gramática intrincada. Su literatura es rica y variada, y sus canciones y poemas son famosos entre otras razas. Muchos bardos aprenden su idioma para añadir baladas élficas a su repertorio.</p>"
+    },
+    "peXDLctEBu9TM54C": {
+      "name": "Tipo de criatura",
+      "description": "<p>Eres un humanoide. También se te considera un elfo para cualquier requisito o efecto que exija ser un elfo.</p>"
+    },
+    "GtmuBwyNfcQ96dEA": {
+      "name": "Tipo de criatura",
+      "description": "<p>Eres un humanoide. También se te considera un elfo para cualquier requisito o efecto que exija ser un elfo.</p>"
+    },
+    "e3zZZqL6A4wnM9IA": {
+      "name": "Tipo de criatura",
+      "description": "<p>Eres un humanoide. También se te considera un elfo para cualquier requisito o efecto que exija ser un elfo.</p>"
+    },
+    "bVyV4dpUBod8gkOq": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "AZC2Sejpx7LmyqyQ": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "IDqpbqv3qotfv994": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "kUMA194SKR30bK1R": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "kyweofGai6GeUzFD": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "ospDP0fUjjonlKy4": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "MyRhBguJihvPM59a": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "HSqvCi8QTWmuAlT6": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "X5tqkTTv0KqI4xx2": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "CHlKWIPFXYv6WfUb": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "BpHpb0EPAhbfK79w": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "743VjoeY8IlZr7Tq": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "CZfiZECxHCnGLTNl": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "jINGBCQ7bOz9FjbR": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "Jt1pt5lj2bWbhO1S": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "OHTrDqu22wJWY7Gf": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "b1I4XsNnnQucJXc6": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que tú y tu DM consideréis apropiado para tu personaje.</p>"
+    },
+    "Ae7cZNntWSweFY7V": {
+      "name": "Velocidad",
+      "description": "<p>Tu velocidad base caminando es de 30 pies.</p>"
+    },
+    "ciOhszDov2a0uyIz": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma que conocieras en vida.</p>"
+    },
+    "bH00zwtdVyG83d7I": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y orco. El orco es un idioma áspero y chirriante, de consonantes duras. No tiene escritura propia, así que se escribe con el alfabeto enano.</p>"
+    },
+    "cB9Xl8IWJ8YLNlwh": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y orco. El orco es un idioma áspero y chirriante, de consonantes duras. No tiene escritura propia, así que se escribe con el alfabeto enano.</p>"
+    },
+    "DFREK2CvoohafOsP": {
+      "name": "Edad",
+      "description": "<p>Los tieflings maduran al mismo ritmo que los humanos, pero viven algunos años más.</p>"
+    },
+    "AhUyHpzZA7ayA9B4": {
+      "name": "Edad",
+      "description": "<p>Los tieflings maduran al mismo ritmo que los humanos, pero viven algunos años más.</p>"
+    },
+    "fUd72lovuGqTbkyZ": {
+      "name": "Edad",
+      "description": "<p>Los tieflings maduran al mismo ritmo que los humanos, pero viven algunos años más.</p>"
+    },
+    "HLv9cYeQHgP1UcQV": {
+      "name": "Edad",
+      "description": "<p>Los tieflings maduran al mismo ritmo que los humanos, pero viven algunos años más.</p>"
+    },
+    "w9Wg9lniRLnYhvCW": {
+      "name": "Edad",
+      "description": "<p>Los tieflings maduran al mismo ritmo que los humanos, pero viven algunos años más.</p>"
+    },
+    "2pvjNDdHDZxEdjfM": {
+      "name": "Edad",
+      "description": "<p>Los tieflings maduran al mismo ritmo que los humanos, pero viven algunos años más.</p>"
+    },
+    "kNsOwI9XoEeFlYTB": {
+      "name": "Edad",
+      "description": "<p>Los tieflings maduran al mismo ritmo que los humanos, pero viven algunos años más.</p>"
+    },
+    "G6sl9ApgrU6EOrOO": {
+      "name": "Edad",
+      "description": "<p>Los tieflings maduran al mismo ritmo que los humanos, pero viven algunos años más.</p>"
+    },
+    "FtZUAE5Qns2sVBw7": {
+      "name": "Edad",
+      "description": "<p>Los tieflings maduran al mismo ritmo que los humanos, pero viven algunos años más.</p>"
+    },
+    "gIY6jUbt6ki4Ih7a": {
+      "name": "Edad",
+      "description": "<p>Los tieflings maduran al mismo ritmo que los humanos, pero viven algunos años más.</p>"
+    },
+    "3MqOanTM6qh2bxsl": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común e infernal.</p>"
+    },
+    "PB2eYOD6jposZImA": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común e infernal.</p>"
+    },
+    "j48fxA6nfAe0HPfT": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común e infernal.</p>"
+    },
+    "6rogzpqAuMZqS1AC": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común e infernal.</p>"
+    },
+    "78schzJsAnJ3yU2V": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común e infernal.</p>"
+    },
+    "NraA9T2Lsb8sYiab": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común e infernal.</p>"
+    },
+    "OufHVA8cvcO8LZql": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común e infernal.</p>"
+    },
+    "czZ4qtqPzkKSdTp4": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común e infernal.</p>"
+    },
+    "QW9eJ7IGD20AmdxC": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común e infernal.</p>"
+    },
+    "hNUMB9PuC7zOmB6N": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común e infernal.</p>"
+    },
+    "DcsCyj11jR0BMysr": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "6VYfbgoljnB9l8PP": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "NKdz1xblYMJIfuMP": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "K5Q4xhgO3z6rYoKo": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "QUarvyxUQr5bzA7p": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "IYTaIExisEjC78lI": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "ymJckb2FNXcLpMpk": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "niGGjjfudiT8qizn": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "tUX5fHVaoJ2HVftN": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "mD0deQz208drscct": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "PpD1B6vJr3WqQwEZ": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "eB5zpn8VKPf6VTH4": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "P3ZtIHH2V8Gf1mqA": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "NONYlQTdZaZWenUK": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "1qSOgeiWc7lyxDqP": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "KvIEaWHFDB4flUQP": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "xLeR4SxSlKncPSQL": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "2QHVOyKRc2IYxZNv": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "yiWJKu1psJnDPV4O": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "MqdsQMKUQkVa4WH2": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "pJylv2BQuZmnPBpp": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y un idioma adicional de tu elección. Los humanos suelen aprender los idiomas de los pueblos con los que tratan, incluso dialectos poco conocidos. Les encanta salpicar su forma de hablar con palabras prestadas de otras lenguas: maldiciones orcas, expresiones musicales élficas, frases militares enanas, etc.</p>"
+    },
+    "9A9kF7NVTtnfoiKN": {
+      "name": "Edad",
+      "description": "<p>Los aasimar maduran al mismo ritmo que los humanos, pero pueden vivir hasta 160 años.</p>"
+    },
+    "nLnNXtOdAonNNEPS": {
+      "name": "Edad",
+      "description": "<p>Los aasimar maduran al mismo ritmo que los humanos, pero pueden vivir hasta 160 años.</p>"
+    },
+    "pr8q2YHXUz0dT5YD": {
+      "name": "Edad",
+      "description": "<p>Los aasimar maduran al mismo ritmo que los humanos, pero pueden vivir hasta 160 años.</p>"
+    },
+    "t7dyLmTIRsg7AJTs": {
+      "name": "Edad",
+      "description": "<p>Los aasimar maduran al mismo ritmo que los humanos, pero pueden vivir hasta 160 años.</p>"
+    },
+    "GPgmVhE3yyfYEvRB": {
+      "name": "Edad",
+      "description": "<p>Los aasimar maduran al mismo ritmo que los humanos, pero pueden vivir hasta 160 años.</p>"
+    },
+    "WrIKCOYMLS4Ofju4": {
+      "name": "Edad",
+      "description": "<p>Los aasimar maduran al mismo ritmo que los humanos, pero pueden vivir hasta 160 años.</p>"
+    },
+    "sRpxZDf8Q3rf6pEA": {
+      "name": "Edad",
+      "description": "<p>Los aasimar maduran al mismo ritmo que los humanos, pero pueden vivir hasta 160 años.</p>"
+    },
+    "pypA9SJwjLGt9f12": {
+      "name": "Edad",
+      "description": "<p>Los aasimar maduran al mismo ritmo que los humanos, pero pueden vivir hasta 160 años.</p>"
+    },
+    "tkLerpzIA9dJY42b": {
+      "name": "Edad",
+      "description": "<p>Los aasimar maduran al mismo ritmo que los humanos, pero pueden vivir hasta 160 años.</p>"
+    },
+    "UD2M9DvrgrBMK8fG": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y celestial.</p>"
+    },
+    "xkhF0EqO8IUU9qkg": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y celestial.</p>"
+    },
+    "BEdXCUohpzNsVmEi": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y celestial.</p>"
+    },
+    "we5dXnirLLRiUQL2": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y celestial.</p>"
+    },
+    "3KpAxMMSrf1wUNGT": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y celestial.</p>"
+    },
+    "4i63AOGInbr19urW": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y celestial.</p>"
+    },
+    "8NKQPJIcKkMoBGeM": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y celestial.</p>"
+    },
+    "fZUlKwc9xncPGccC": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y celestial.</p>"
+    },
+    "7ob7G0tdNKoiWiN2": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y celestial.</p>"
+    },
+    "5xGmX4pCl3UNpOi7": {
+      "name": "Edad",
+      "description": "<p>Los vampiros son inmortales y pueden tener cualquier edad. Conservan el aspecto físico de la edad a la que fueron convertidos y también el desarrollo psicológico propio de esa edad, por lo que los vampiros que no llegaron a adultos en su vida mortal pueden seguir teniendo los impulsos de un adolescente.</p>"
+    },
+    "P3NNdW6sUSoCg3qI": {
+      "name": "Edad",
+      "description": "<p>Los vampiros son inmortales y pueden tener cualquier edad. Conservan el aspecto físico de la edad a la que fueron convertidos y también el desarrollo psicológico propio de esa edad, por lo que los vampiros que no llegaron a adultos en su vida mortal pueden seguir teniendo los impulsos de un adolescente.</p>"
+    },
+    "4LiJqssrNjy9SmWe": {
+      "name": "Edad",
+      "description": "<p>Los vampiros son inmortales y pueden tener cualquier edad. Conservan el aspecto físico de la edad a la que fueron convertidos y también el desarrollo psicológico propio de esa edad, por lo que los vampiros que no llegaron a adultos en su vida mortal pueden seguir teniendo los impulsos de un adolescente.</p>"
+    },
+    "pwpJL5hniwZCNtpL": {
+      "name": "Alineamiento",
+      "description": "<p>Los vampiros jóvenes pueden mantener el alineamiento legal, neutral o caótico que tenían en vida, pero los más viejos siempre tienden a la legalidad y suelen seguir un código propio, desarrollado a lo largo de los siglos para asegurar su integridad y su supervivencia. La gran mayoría de los vampiros son legales malvados; solo los más jóvenes intentan conservar su humanidad y mantenerse al menos neutrales, por no hablar de buenos.</p>"
+    },
+    "ppQVMePDb4q72F9U": {
+      "name": "Alineamiento",
+      "description": "<p>Los vampiros jóvenes pueden mantener el alineamiento legal, neutral o caótico que tenían en vida, pero los más viejos siempre tienden a la legalidad y suelen seguir un código propio, desarrollado a lo largo de los siglos para asegurar su integridad y su supervivencia. La gran mayoría de los vampiros son legales malvados; solo los más jóvenes intentan conservar su humanidad y mantenerse al menos neutrales, por no hablar de buenos.</p>"
+    },
+    "WyekYglncPDTu77V": {
+      "name": "Alineamiento",
+      "description": "<p>Los vampiros jóvenes pueden mantener el alineamiento legal, neutral o caótico que tenían en vida, pero los más viejos siempre tienden a la legalidad y suelen seguir un código propio, desarrollado a lo largo de los siglos para asegurar su integridad y su supervivencia. La gran mayoría de los vampiros son legales malvados; solo los más jóvenes intentan conservar su humanidad y mantenerse al menos neutrales, por no hablar de buenos.</p>"
+    },
+    "q3KwLDPcxFZLsz58": {
+      "name": "Velocidad",
+      "description": "<p>35 pies, y puedes trepar a esa misma velocidad.</p>"
+    },
+    "fshX6PDqM2bD1khA": {
+      "name": "Velocidad",
+      "description": "<p>35 pies, y puedes trepar a esa misma velocidad.</p>"
+    },
+    "h5394JrnF814rOvh": {
+      "name": "Velocidad",
+      "description": "<p>35 pies, y puedes trepar a esa misma velocidad.</p>"
+    },
+    "8lWSfji1457BWOLJ": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma de tu elección.</p>"
+    },
+    "zmrfkZgnjjueYIz8": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma de tu elección.</p>"
+    },
+    "CI1ePFPAMUgWdWJw": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma de tu elección.</p>"
+    },
+    "g4FLZyrS5Prfi8LJ": {
+      "name": "Alineamiento",
+      "description": "<p>Por su naturaleza traviesa, los kitsune suelen ser caóticos; incluso a los monjes más disciplinados les cuesta ignorar de vez en cuando las ganas de hacer alguna travesura. Hay kitsune buenos y también malvados.</p>"
+    },
+    "iFWFAKzfBtrxbIr2": {
+      "name": "Alineamiento",
+      "description": "<p>Por su naturaleza traviesa, los kitsune suelen ser caóticos; incluso a los monjes más disciplinados les cuesta ignorar de vez en cuando las ganas de hacer alguna travesura. Hay kitsune buenos y también malvados.</p>"
+    },
+    "8pWeQDXs1dviLpyZ": {
+      "name": "Alineamiento",
+      "description": "<p>Por su naturaleza traviesa, los kitsune suelen ser caóticos; incluso a los monjes más disciplinados les cuesta ignorar de vez en cuando las ganas de hacer alguna travesura. Hay kitsune buenos y también malvados.</p>"
+    },
+    "xzADlKBVVXyy6UmV": {
+      "name": "Alineamiento",
+      "description": "<p>Por su naturaleza traviesa, los kitsune suelen ser caóticos; incluso a los monjes más disciplinados les cuesta ignorar de vez en cuando las ganas de hacer alguna travesura. Hay kitsune buenos y también malvados.</p>"
+    },
+    "uWxEGG1moD6nwpak": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y silvano.</p>"
+    },
+    "1vhDTpDdAFnr9ngA": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y silvano.</p>"
+    },
+    "BWqG5EyXVhql7Gj2": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y silvano.</p>"
+    },
+    "Whe0uWbYOFhOQRpq": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y silvano.</p>"
+    },
+    "wVkuckUxgpeG9f78": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y silvano.</p>"
+    },
+    "ulzKS0kX5JskyNlg": {
+      "name": "Edad",
+      "description": "<p>Los sátiros maduran y envejecen más o menos al mismo ritmo que los humanos.</p>"
+    },
+    "eLhvhrcwUTBcjR9B": {
+      "name": "Alineamiento",
+      "description": "<p>Los sátiros disfrutan de una vida libre del yugo de la ley. Tienden a ser buenos, pero algunos tienen un lado retorcido y disfrutan sembrando el desconcierto.</p>"
+    },
+    "XWbbSMXGqSqqq50j": {
+      "name": "Edad",
+      "description": "<p>Los semielfos maduran al mismo ritmo que los humanos y alcanzan la edad adulta hacia los 20 años. Sin embargo, viven mucho más que ellos y a menudo superan los 180 años.</p>"
+    },
+    "JmFbrU76drGWOlRG": {
+      "name": "Edad",
+      "description": "<p>Los semielfos maduran al mismo ritmo que los humanos y alcanzan la edad adulta hacia los 20 años. Sin embargo, viven mucho más que ellos y a menudo superan los 180 años.</p>"
+    },
+    "9Ezd1llU16BivqDo": {
+      "name": "Edad",
+      "description": "<p>Los semielfos maduran al mismo ritmo que los humanos y alcanzan la edad adulta hacia los 20 años. Sin embargo, viven mucho más que ellos y a menudo superan los 180 años.</p>"
+    },
+    "Q4ibL18ALtrIDtKj": {
+      "name": "Edad",
+      "description": "<p>Los semielfos maduran al mismo ritmo que los humanos y alcanzan la edad adulta hacia los 20 años. Sin embargo, viven mucho más que ellos y a menudo superan los 180 años.</p>"
+    },
+    "YEghQnjLEiHgQSeI": {
+      "name": "Edad",
+      "description": "<p>Los semielfos maduran al mismo ritmo que los humanos y alcanzan la edad adulta hacia los 20 años. Sin embargo, viven mucho más que ellos y a menudo superan los 180 años.</p>"
+    },
+    "Mn5TzASEHM776Iqo": {
+      "name": "Edad",
+      "description": "<p>Los semielfos maduran al mismo ritmo que los humanos y alcanzan la edad adulta hacia los 20 años. Sin embargo, viven mucho más que ellos y a menudo superan los 180 años.</p>"
+    },
+    "HGL3eKZWCcO0XvzS": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común, élfico y un idioma adicional de tu elección.</p>"
+    },
+    "8gwfbp1aiZgpdCVv": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común, élfico y un idioma adicional de tu elección.</p>"
+    },
+    "IO5oPkqvUbsYXh8R": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común, élfico y un idioma adicional de tu elección.</p>"
+    },
+    "9TG8GhgZBHsFYbak": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común, élfico y un idioma adicional de tu elección.</p>"
+    },
+    "BK8SX9NMzp18qoTs": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común, élfico y un idioma adicional de tu elección.</p>"
+    },
+    "durO7L3L8OAtltrb": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común, élfico y un idioma adicional de tu elección.</p>"
+    },
+    "zqNh2bdvXChZuhvg": {
+      "name": "Edad",
+      "description": "<p>Un mediano alcanza la edad adulta a los 20 años y suele vivir hasta mediados de su segundo siglo.</p>"
+    },
+    "hT3UoHuqYuQOvtG7": {
+      "name": "Edad",
+      "description": "<p>Un mediano alcanza la edad adulta a los 20 años y suele vivir hasta mediados de su segundo siglo.</p>"
+    },
+    "RHe23tSNPE4NKcwo": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y mediano. El idioma mediano no es secreto, pero a los medianos no les gusta compartirlo. Escriben muy poco, así que no tienen una gran literatura, pero su tradición oral es muy fuerte. Casi todos los medianos hablan común para conversar con la gente de las tierras donde viven o por las que viajan.</p>"
+    },
+    "6ygC4luziAFjakVz": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y mediano. El idioma mediano no es secreto, pero a los medianos no les gusta compartirlo. Escriben muy poco, así que no tienen una gran literatura, pero su tradición oral es muy fuerte. Casi todos los medianos hablan común para conversar con la gente de las tierras donde viven o por las que viajan.</p>"
+    },
+    "vORxTEBO4nnFxSvT": {
+      "name": "Edad",
+      "description": "<p>Un forjado típico tiene entre dos y treinta años. Su esperanza de vida máxima sigue siendo un misterio: hasta ahora, los forjados no han mostrado signos de deterioro por la edad. Eres inmune a los efectos mágicos de envejecimiento.</p>"
+    },
+    "OYJ3DzO88u0Nm75r": {
+      "name": "Alineamiento",
+      "description": "<p>La mayoría de los forjados encuentran consuelo en el orden y la disciplina, y tienden a ser legales y neutrales. Pero algunos han absorbido la moral, o la falta de ella, de los seres a los que sirvieron.</p>"
+    },
+    "yaJAOcEKniGqUa5V": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y otro idioma de tu elección.</p>"
+    },
+    "dDPnmLjLzCOxh1wg": {
+      "name": "Edad",
+      "description": "<p>Los dracónidos jóvenes crecen deprisa. Caminan horas después de salir del huevo, a los 3 años tienen el tamaño y el desarrollo de un niño humano de 10, y alcanzan la edad adulta a los 15. Viven unos 80 años.</p>"
+    },
+    "nVs6774dXe94pMcR": {
+      "name": "Edad",
+      "description": "<p>Los dracónidos jóvenes crecen deprisa. Caminan horas después de salir del huevo, a los 3 años tienen el tamaño y el desarrollo de un niño humano de 10, y alcanzan la edad adulta a los 15. Viven unos 80 años.</p>"
+    },
+    "O6wiCq4zg5Wa1eMQ": {
+      "name": "Edad",
+      "description": "<p>Los dracónidos jóvenes crecen deprisa. Caminan horas después de salir del huevo, a los 3 años tienen el tamaño y el desarrollo de un niño humano de 10, y alcanzan la edad adulta a los 15. Viven unos 80 años.</p>"
+    },
+    "mUpn5GYQn0j1XoC5": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y dracónico. Se cree que el dracónico es uno de los idiomas más antiguos y se usa a menudo en el estudio de la magia. A la mayoría de las criaturas les suena áspero, con muchas consonantes duras y sibilantes.</p>"
+    },
+    "yFPnOur2htNuFJ0o": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y dracónico. Se cree que el dracónico es uno de los idiomas más antiguos y se usa a menudo en el estudio de la magia. A la mayoría de las criaturas les suena áspero, con muchas consonantes duras y sibilantes.</p>"
+    },
+    "5eqlRWvGrHPYqwQu": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y dracónico. Se cree que el dracónico es uno de los idiomas más antiguos y se usa a menudo en el estudio de la magia. A la mayoría de las criaturas les suena áspero, con muchas consonantes duras y sibilantes.</p>"
+    },
+    "U80QbtAZC4suoc9Y": {
+      "name": "Alineamiento",
+      "description": "<p>Los humanos no tienden a ningún alineamiento en particular. Entre ellos se encuentran los mejores y los peores.</p>"
+    },
+    "OF8cHwbEiL3oIzeF": {
+      "name": "Edad",
+      "description": "<p>Los sangrepura maduran al mismo ritmo que los humanos y viven más o menos lo mismo que ellos.</p>"
+    },
+    "8AggwuSy8WxE59tu": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común, abisal y dracónico.</p>"
+    },
+    "DRvsQOhblVNHJct8": {
+      "name": "Tipo de criatura",
+      "description": "<p>Eres un feérico.</p>"
+    },
+    "cz5CCtebJWCyocEM": {
+      "name": "Tipo de criatura",
+      "description": "<p>Eres un feérico.</p>"
+    },
+    "m1n0selrH0oOBrpc": {
+      "name": "Tipo de criatura",
+      "description": "<p>Eres un feérico.</p>"
+    },
+    "xapUy6kbr2Tbz3o3": {
+      "name": "Tipo de criatura",
+      "description": "<p>Eres un feérico.</p>"
+    },
+    "rPYqI2jmuhEWOH2n": {
+      "name": "Tipo de criatura",
+      "description": "<p>Eres un feérico.</p>"
+    },
+    "Ga48M9SJowCAjJmC": {
+      "name": "Tipo de criatura",
+      "description": "<p>Eres un humanoide. También se te considera un goblinoide para cualquier requisito o efecto que exija ser un goblinoide.</p>"
+    },
+    "QbiOjCWFdOjm2juL": {
+      "name": "Edad",
+      "description": "<p>Los enanos maduran al mismo ritmo que los humanos, pero se les considera jóvenes hasta los 50 años. De media viven unos 350.</p>"
+    },
+    "mC8wS7PO5OdKZ04N": {
+      "name": "Edad",
+      "description": "<p>Los enanos maduran al mismo ritmo que los humanos, pero se les considera jóvenes hasta los 50 años. De media viven unos 350.</p>"
+    },
+    "fTtf5OTK1YnxJCJs": {
+      "name": "Velocidad",
+      "description": "<p>Llevar armadura pesada no reduce tu velocidad.</p>"
+    },
+    "ae7EzjGi1luTRwy0": {
+      "name": "Velocidad",
+      "description": "<p>Llevar armadura pesada no reduce tu velocidad.</p>"
+    },
+    "r5339D0fSDqonTcO": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y enano. El enano está lleno de consonantes duras y sonidos guturales, y esas características se cuelan en cualquier otro idioma que hable un enano.</p>"
+    },
+    "RgzLPw2sA70YKVTh": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y enano. El enano está lleno de consonantes duras y sonidos guturales, y esas características se cuelan en cualquier otro idioma que hable un enano.</p>"
+    },
+    "mR2AmCr9rgAgh4Gg": {
+      "name": "Alineamiento",
+      "description": "<p>Los semielfos comparten la vena caótica de su herencia élfica. Valoran la libertad personal y la expresión creativa, y no sienten amor por los líderes ni deseo de tener seguidores. Les irritan las normas, les molestan las exigencias ajenas y a veces resultan poco fiables, o al menos impredecibles.</p>"
+    },
+    "rEyBDfF7hGjgjVIl": {
+      "name": "Alineamiento",
+      "description": "<p>Los semielfos comparten la vena caótica de su herencia élfica. Valoran la libertad personal y la expresión creativa, y no sienten amor por los líderes ni deseo de tener seguidores. Les irritan las normas, les molestan las exigencias ajenas y a veces resultan poco fiables, o al menos impredecibles.</p>"
+    },
+    "UlEEahVHPiEeMcZS": {
+      "name": "Edad",
+      "description": "<p>Tu edad depende de tu raza de nacimiento: si esa raza ya fija una edad, esa será tu esperanza de vida; si no, vivirás unos 1000 años.</p>"
+    },
+    "2a6mthk0D44aDmfy": {
+      "name": "Alineamiento",
+      "description": "<p>Tu alineamiento lo determina tu raza de nacimiento, pero los parientes son neutrales por naturaleza.</p>"
+    },
+    "s1IiZAgkXzmXMFit": {
+      "name": "Velocidad",
+      "description": "<p>30 pies, y puedes trepar a esa misma velocidad.</p>"
+    },
+    "gkptdJG5tH8gFUxk": {
+      "name": "Idiomas",
+      "description": "<p>Puedes leer, escribir y hablar el idioma de tu raza de nacimiento, el común y también el silvano.</p>"
+    },
+    "lhfOuLZoyT7EpBun": {
+      "name": "Tipo de criatura",
+      "description": "<p>Eres un humanoide. Tú decides tu aspecto y si te pareces a alguno de tus parientes.</p>"
+    },
+    "dc8gFzkgM3cpL44F": {
+      "name": "Idiomas",
+      "description": "<p>Puedes hablar, leer y escribir común y orco.</p>"
+    },
+    "mabPUIXPs7gOxazC": {
+      "name": "Edad",
+      "description": "<p>Como seres no muertos, los tumularios no envejecen ni maduran, y pueden vivir miles de años si no caen en combate.</p>"
+    },
+    "5V5qGft3vFjq5Zmp": {
+      "name": "Alineamiento",
+      "description": "<p>Los tumularios son transformados por entidades oscuras para servir a sus fines, por lo que casi siempre son malvados. Aunque conservan sus recuerdos y su personalidad, solo se crean a partir de humanos malvados y vanidosos, así que seguirán siendo malvados a menos que cambien de alineamiento tras alcanzar la no muerte.</p>"
+    },
+    "dIfjsQODLVCMklyu": {
+      "name": "Edad",
+      "description": "<p>Los semiorcos maduran algo más rápido que los humanos y alcanzan la edad adulta hacia los 14 años. Envejecen notablemente más deprisa y rara vez viven más de 75 años.</p>"
+    },
+    "5nWXCVwa8VfB68qK": {
+      "name": "Edad",
+      "description": "<p>Los semiorcos maduran algo más rápido que los humanos y alcanzan la edad adulta hacia los 14 años. Envejecen notablemente más deprisa y rara vez viven más de 75 años.</p>"
+    },
+    "gvlVoQ53KwpFkAuc": {
+      "name": "Alineamiento",
+      "description": "<p>Los semiorcos heredan de sus progenitores orcos una tendencia al caos y no se inclinan especialmente hacia el bien. Los que se crían entre orcos y están dispuestos a pasar su vida con ellos suelen ser malvados.</p>"
+    },
+    "O9P2OslNFa1c1Sqa": {
+      "name": "Alineamiento",
+      "description": "<p>Puede que los tieflings no tengan una tendencia innata al mal, pero muchos acaban en él. Malvados o no, su naturaleza independiente inclina a muchos hacia un alineamiento caótico.</p>"
+    },
+    "gejIdrUtSarwfTLS": {
+      "name": "Alineamiento",
+      "description": "<p>Puede que los tieflings no tengan una tendencia innata al mal, pero muchos acaban en él. Malvados o no, su naturaleza independiente inclina a muchos hacia un alineamiento caótico.</p>"
+    },
+    "ysiUy4EMJNokBTqv": {
+      "name": "Alineamiento",
+      "description": "<p>Puede que los tieflings no tengan una tendencia innata al mal, pero muchos acaban en él. Malvados o no, su naturaleza independiente inclina a muchos hacia un alineamiento caótico.</p>"
+    },
+    "W5GRxCyTQcoCRFpu": {
+      "name": "Alineamiento",
+      "description": "<p>Puede que los tieflings no tengan una tendencia innata al mal, pero muchos acaban en él. Malvados o no, su naturaleza independiente inclina a muchos hacia un alineamiento caótico.</p>"
+    },
+    "xwMqt2Mk8ROR1AMF": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "HfZ7ozya6A5urLiZ": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "mopNZGvvTzpIVj49": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "XfsK68ca0ms45RyR": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "NxOcwQQiOnytlxlw": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "vgTfsqK5D5FJuZ0j": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "IY2ynbkyg9CyeaHl": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "Hld1nkSxheK1Q2sk": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "vUfLoikZbBGeWSiH": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "HY5Q98UYLI16T0g0": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "XXJ3ZCtHlsjJxTdo": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "cO2BwfqWK3lfHo0t": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "QvP9BqAu9A1lKvXi": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "is85vw6bwBgiZ69p": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "d0W8zlrhitfaEJmE": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "13SQ7aDRCj3N6K4G": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "Mr1A4RfHxOf45Fe1": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "o94Bwp2qxFR3Y85t": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "GmaOurptp5uu6lqo": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "pCXvq2X6BqPpMnJx": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "O2nJz6GrUmM2pnHF": {
+      "name": "Edad",
+      "description": "<p>Los humanos alcanzan la edad adulta al final de la adolescencia y viven menos de un siglo.</p>"
+    },
+    "FKA2cO5X6jrv7WMu": {
+      "name": "Alineamiento",
+      "description": "<p>Imbuidos de poder celestial, la mayoría de los aasimar son buenos. Los aasimar marginados suelen ser neutrales o incluso malvados.</p>"
+    },
+    "N7sXaEcwt1GeY3ik": {
+      "name": "Edad",
+      "description": "<p>Los kitsune alcanzan la edad adulta a los 16 años, dejan de envejecer físicamente poco después de los 20 y pueden vivir varios siglos.</p>"
+    },
+    "XqbUVTPtS4OiIeFg": {
+      "name": "Edad",
+      "description": "<p>Los kitsune alcanzan la edad adulta a los 16 años, dejan de envejecer físicamente poco después de los 20 y pueden vivir varios siglos.</p>"
+    },
+    "rceCy4o3JHEDST0d": {
+      "name": "Edad",
+      "description": "<p>Los kitsune alcanzan la edad adulta a los 16 años, dejan de envejecer físicamente poco después de los 20 y pueden vivir varios siglos.</p>"
+    },
+    "c7Mxfa0TtBPw0RUl": {
+      "name": "Edad",
+      "description": "<p>Los kitsune alcanzan la edad adulta a los 16 años, dejan de envejecer físicamente poco después de los 20 y pueden vivir varios siglos.</p>"
+    },
+    "9wt4DyeC7GFOmrUB": {
+      "name": "Edad",
+      "description": "<p>Los orcos alcanzan la edad adulta a los 12 años y viven hasta 50.</p>"
+    },
+    "Arrow (Quiver)": {
+      "name": "Flecha",
+      "description": "<p>Munición común utilizada por arcos de cualquier tipo. Estas flechas mundanas están hechas de lisas varas de madera con plumas de ganso y puntas de metal.</p>"
+    },
+    "Ball Bearings (bag of 1,000)": {
+      "name": "Bolas de metal",
+      "description": "<p>Puedes usar tu acción para esparcir estas pequeñas esferas metálicas, que vienen en una bolsita, sobre una superficie nivelada, cubriendo un cuadrado de 10 pies de lado. Las criaturas que se muevan a través de la zona afectada deberán superar una tirada de salvación de Destreza CD 10 o serán derribadas. Sin embargo, si una criatura se desplaza por la zona a la mitad de su velocidad, no tendrá que superar la tirada de salvación.</p>"
+    },
+    "Silk Rope (50 feet)": {
+      "name": "Cuerda de seda - 50 Pies",
+      "description": "<p>La cuerda, ya esté hecha de cáñamo o de seda, tiene 2 puntos de golpe y para romperla es necesaria una prueba de Fuerza CD 17.</p>"
+    },
+    "Bardic Inspiration (d10)": {
+      "name": "Inspiración Bárdica (d10)",
+      "description": "<p>Puedes recurrir a tus palabras o a tu música, especialmente emotivas, para inspirar a las demás. Para hacer esto, deberás utilizar una acción adicional durante tu turno y elegir a una criatura que no seas tú, pueda oírte y esté a 60 pies o menos de ti. Dicho objetivo recibe un dado de Inspiración Bárdica, 1d6. Una sola vez, antes de que pasen 10 minutos, la criatura puede tirar el dado y añadir el resultado a una de sus pruebas de característica, tiradas de ataque o tiradas de salvación. Puede esperar a ver el resultado del d20 antes de elegir si usar el dado de Inspiración Bárdica, pero debe tomar la decisión antes de que el DM diga si la tirada tiene éxito o no. Una vez se tira el dado de Inspiración Bárdica, este se pierde. Además, cada criatura solo puede tener un dado de Inspiración Bárdica al mismo tiempo.</p><p>Puedes utilizar este rasgo tantas veces como tu modificador por Carisma (mínimo una vez).</p><p>Recuperas todos los usos tras finalizar un descanso largo.</p><p>Tu dado de Inspiración Bárdica cambia cuando alcanzas ciertos niveles de esta clase: pasa a ser 1d8 a nivel 5, 1d10 a nivel 10 y 1d12 a nivel 15.</p><p><em>**Notas de Foundry: Ten en cuenta que la fórmula de Otros está fijada en la base predeterminada de 1d6 y que los usos limitados están fijados en el mínimo de 1. Además, la recuperación está fijada en el descanso largo (para los niveles anteriores a @UUID[Compendium.dnd5e.classfeatures.Item.3VDZGs5Ug3hIE322]{Fuente de Inspiración}). Se deberá ajustar manualmente según sea necesario.</em></p>"
+    },
+    "Bardic Inspiration (d12)": {
+      "name": "Inspiración Bárdica (d12)",
+      "description": "<p>Puedes recurrir a tus palabras o a tu música, especialmente emotivas, para inspirar a las demás. Para hacer esto, deberás utilizar una acción adicional durante tu turno y elegir a una criatura que no seas tú, pueda oírte y esté a 60 pies o menos de ti. Dicho objetivo recibe un dado de Inspiración Bárdica, 1d6. Una sola vez, antes de que pasen 10 minutos, la criatura puede tirar el dado y añadir el resultado a una de sus pruebas de característica, tiradas de ataque o tiradas de salvación. Puede esperar a ver el resultado del d20 antes de elegir si usar el dado de Inspiración Bárdica, pero debe tomar la decisión antes de que el DM diga si la tirada tiene éxito o no. Una vez se tira el dado de Inspiración Bárdica, este se pierde. Además, cada criatura solo puede tener un dado de Inspiración Bárdica al mismo tiempo.</p><p>Puedes utilizar este rasgo tantas veces como tu modificador por Carisma (mínimo una vez).</p><p>Recuperas todos los usos tras finalizar un descanso largo.</p><p>Tu dado de Inspiración Bárdica cambia cuando alcanzas ciertos niveles de esta clase: pasa a ser 1d8 a nivel 5, 1d10 a nivel 10 y 1d12 a nivel 15.</p><p><em>**Notas de Foundry: Ten en cuenta que la fórmula de Otros está fijada en la base predeterminada de 1d6 y que los usos limitados están fijados en el mínimo de 1. Además, la recuperación está fijada en el descanso largo (para los niveles anteriores a @UUID[Compendium.dnd5e.classfeatures.Item.3VDZGs5Ug3hIE322]{Fuente de Inspiración}). Se deberá ajustar manualmente según sea necesario.</em></p>"
+    },
+    "Bardic Inspiration (d8)": {
+      "name": "Inspiración Bárdica (d8)",
+      "description": "<p>Puedes recurrir a tus palabras o a tu música, especialmente emotivas, para inspirar a las demás. Para hacer esto, deberás utilizar una acción adicional durante tu turno y elegir a una criatura que no seas tú, pueda oírte y esté a 60 pies o menos de ti. Dicho objetivo recibe un dado de Inspiración Bárdica, 1d6. Una sola vez, antes de que pasen 10 minutos, la criatura puede tirar el dado y añadir el resultado a una de sus pruebas de característica, tiradas de ataque o tiradas de salvación. Puede esperar a ver el resultado del d20 antes de elegir si usar el dado de Inspiración Bárdica, pero debe tomar la decisión antes de que el DM diga si la tirada tiene éxito o no. Una vez se tira el dado de Inspiración Bárdica, este se pierde. Además, cada criatura solo puede tener un dado de Inspiración Bárdica al mismo tiempo.</p><p>Puedes utilizar este rasgo tantas veces como tu modificador por Carisma (mínimo una vez).</p><p>Recuperas todos los usos tras finalizar un descanso largo.</p><p>Tu dado de Inspiración Bárdica cambia cuando alcanzas ciertos niveles de esta clase: pasa a ser 1d8 a nivel 5, 1d10 a nivel 10 y 1d12 a nivel 15.</p><p><em>**Notas de Foundry: Ten en cuenta que la fórmula de Otros está fijada en la base predeterminada de 1d6 y que los usos limitados están fijados en el mínimo de 1. Además, la recuperación está fijada en el descanso largo (para los niveles anteriores a @UUID[Compendium.dnd5e.classfeatures.Item.3VDZGs5Ug3hIE322]{Fuente de Inspiración}). Se deberá ajustar manualmente según sea necesario.</em></p>"
+    },
+    "Brutal Critical (1 die)": {
+      "name": "Crítico Brutal (1 dado)",
+      "description": "<p>A partir de nivel 9, cuando hagas un crítico con un ataque cuerpo a cuerpo, podrás tirar uno de los dados de daño del arma una vez más y añadir el resultado al daño adicional causado. Podrás tirar dos dados adicionales a partir de nivel 13 y tres dados adicionales a partir de nivel 17.</p>"
+    },
+    "Brutal Critical (2 dice)": {
+      "name": "Crítico Brutal (2 dados)",
+      "description": "<p>A partir de nivel 9, cuando hagas un crítico con un ataque cuerpo a cuerpo, podrás tirar uno de los dados de daño del arma una vez más y añadir el resultado al daño adicional causado. Podrás tirar dos dados adicionales a partir de nivel 13 y tres dados adicionales a partir de nivel 17.</p>"
+    },
+    "Channel Divinity (1/rest)": {
+      "name": "Canalizar Divinidad (1/descanso)",
+      "description": "<p>A nivel 2 ganas la habilidad para canalizar energía divina directamente desde tu deidad y usar dicha energía para alimentar varios efectos mágicos. Empiezas con dos de estos efectos: Expulsar Muertos Vivientes y un segundo poder determinado por tu dominio. Algunos dominios te otorgan efectos adicionales al subir de nivel, tal y como se indica en sus descripciones.</p><p>Cuando utilices Canalizar Divinidad, elige cuál de los efectos vas a crear. Deberás terminar un descanso corto o largo para poder volver a usar Canalizar Divinidad otra vez. Algunos efectos de Canalizar Divinidad exigen hacer tiradas de salvación. Cuando utilices uno de los proporcionados por esta clase, la CD será la misma que la de las tiradas de salvación de tus conjuros de clérigo.</p><p>A partir de nivel 6, puedes emplear Canalizar Divinidad dos veces entre descansos y, a partir de nivel 18, tres veces. Recuperas todos los usos tras realizar un descanso corto o largo.</p><p><em>**Nota de Foundry: Utiliza esta opción para contabilizar todos los usos de Canalizar Divinidad del clérigo. Ten en cuenta que los usos limitados están establecidos por defecto en 1 por descanso corto o largo. Ajústalo manualmente según sea necesario.</em></p>"
+    },
+    "Channel Divinity (2/rest)": {
+      "name": "Canalizar Divinidad (2/descanso)",
+      "description": "<p>A nivel 2 ganas la habilidad para canalizar energía divina directamente desde tu deidad y usar dicha energía para alimentar varios efectos mágicos. Empiezas con dos de estos efectos: Expulsar Muertos Vivientes y un segundo poder determinado por tu dominio. Algunos dominios te otorgan efectos adicionales al subir de nivel, tal y como se indica en sus descripciones.</p><p>Cuando utilices Canalizar Divinidad, elige cuál de los efectos vas a crear. Deberás terminar un descanso corto o largo para poder volver a usar Canalizar Divinidad otra vez. Algunos efectos de Canalizar Divinidad exigen hacer tiradas de salvación. Cuando utilices uno de los proporcionados por esta clase, la CD será la misma que la de las tiradas de salvación de tus conjuros de clérigo.</p><p>A partir de nivel 6, puedes emplear Canalizar Divinidad dos veces entre descansos y, a partir de nivel 18, tres veces. Recuperas todos los usos tras realizar un descanso corto o largo.</p><p><em>**Nota de Foundry: Utiliza esta opción para contabilizar todos los usos de Canalizar Divinidad del clérigo. Ten en cuenta que los usos limitados están establecidos por defecto en 1 por descanso corto o largo. Ajústalo manualmente según sea necesario.</em></p>"
+    },
+    "Channel Divinity (3/rest)": {
+      "name": "Canalizar Divinidad (3/descanso)",
+      "description": "<p>A nivel 2 ganas la habilidad para canalizar energía divina directamente desde tu deidad y usar dicha energía para alimentar varios efectos mágicos. Empiezas con dos de estos efectos: Expulsar Muertos Vivientes y un segundo poder determinado por tu dominio. Algunos dominios te otorgan efectos adicionales al subir de nivel, tal y como se indica en sus descripciones.</p><p>Cuando utilices Canalizar Divinidad, elige cuál de los efectos vas a crear. Deberás terminar un descanso corto o largo para poder volver a usar Canalizar Divinidad otra vez. Algunos efectos de Canalizar Divinidad exigen hacer tiradas de salvación. Cuando utilices uno de los proporcionados por esta clase, la CD será la misma que la de las tiradas de salvación de tus conjuros de clérigo.</p><p>A partir de nivel 6, puedes emplear Canalizar Divinidad dos veces entre descansos y, a partir de nivel 18, tres veces. Recuperas todos los usos tras realizar un descanso corto o largo.</p><p><em>**Nota de Foundry: Utiliza esta opción para contabilizar todos los usos de Canalizar Divinidad del clérigo. Ten en cuenta que los usos limitados están establecidos por defecto en 1 por descanso corto o largo. Ajústalo manualmente según sea necesario.</em></p>"
+    },
+    "Channel Divinity:  Divine Sense": {
+      "name": "Sentidos Divinos",
+      "description": "<p>La presencia de un fuerte mal se manifiesta en tus sentidos como un hedor nauseabundo, mientras que un poderoso bien resuena en tus oídos como música celestial. Como acción, puedes expandir tu percepción para detectar estas fuerzas. Hasta el final de tu siguiente turno, sabrás la ubicación de cualquier celestial, infernal o muerto viviente a 60 pies o menos de ti que no se encuentre tras cobertura completa. Conocerás el tipo (celestial, infernal o muerto viviente) de cualquier ser cuya presencia puedas percibir, pero no su identidad (el conde vampiro Strahd von Zarovich, por ejemplo). Dentro de esa misma distancia también podrás detectar la presencia de cualquier lugar u objeto que haya sido consagrado o profanado, como con el conjuro @UUID[Compendium.dnd5e.spells.Item.SLxA9QhrggTz0taU]{consagrar}.</p><p>Puedes emplear este rasgo tantas veces como 1 + tu modificador por Carisma. Recuperas todos los usos tras finalizar un descanso largo.</p><p><em>**Nota de Foundry: Ten en cuenta que los usos limitados están establecidos por defecto en 1 por descanso largo. Ajústalo manualmente según sea necesario.</em></p>"
+    },
+    "Destroy Undead (CR 1)": {
+      "name": "Destruir Muertos Vivientes (VD 1)",
+      "description": "<p>A partir de nivel 5, cuando un muerto viviente falle la tirada de salvación contra tu rasgo @UUID[Compendium.dnd5e.classfeatures.Item.r91UIgwFdHwkXdia]{Expulsar Muertos Vivientes}, la criatura será destruida instantáneamente si su valor de desafío es igual o inferior al de un umbral determinado, que se muestra en la siguiente tabla.</p><table border=\"1\"><tbody><tr><td><strong>Nivel de clérigo</strong></td><td><strong>Destruye muertos vivientes de VD...</strong></td></tr><tr><td>5</td><td>1/2 o inferior</td></tr><tr><td>8</td><td>1 o inferior</td></tr><tr><td>11</td><td>2 o inferior</td></tr><tr><td>14</td><td>3 o inferior</td></tr><tr><td>17</td><td>4 o inferior</td></tr></tbody></table>"
+    },
+    "Destroy Undead (CR 1/2)": {
+      "name": "Destruir Muertos Vivientes (VD 1/2)",
+      "description": "<p>A partir de nivel 5, cuando un muerto viviente falle la tirada de salvación contra tu rasgo @UUID[Compendium.dnd5e.classfeatures.Item.r91UIgwFdHwkXdia]{Expulsar Muertos Vivientes}, la criatura será destruida instantáneamente si su valor de desafío es igual o inferior al de un umbral determinado, que se muestra en la siguiente tabla.</p><table border=\"1\"><tbody><tr><td><strong>Nivel de clérigo</strong></td><td><strong>Destruye muertos vivientes de VD...</strong></td></tr><tr><td>5</td><td>1/2 o inferior</td></tr><tr><td>8</td><td>1 o inferior</td></tr><tr><td>11</td><td>2 o inferior</td></tr><tr><td>14</td><td>3 o inferior</td></tr><tr><td>17</td><td>4 o inferior</td></tr></tbody></table>"
+    },
+    "Destroy Undead (CR 2)": {
+      "name": "Destruir Muertos Vivientes (VD 2)",
+      "description": "<p>A partir de nivel 5, cuando un muerto viviente falle la tirada de salvación contra tu rasgo @UUID[Compendium.dnd5e.classfeatures.Item.r91UIgwFdHwkXdia]{Expulsar Muertos Vivientes}, la criatura será destruida instantáneamente si su valor de desafío es igual o inferior al de un umbral determinado, que se muestra en la siguiente tabla.</p><table border=\"1\"><tbody><tr><td><strong>Nivel de clérigo</strong></td><td><strong>Destruye muertos vivientes de VD...</strong></td></tr><tr><td>5</td><td>1/2 o inferior</td></tr><tr><td>8</td><td>1 o inferior</td></tr><tr><td>11</td><td>2 o inferior</td></tr><tr><td>14</td><td>3 o inferior</td></tr><tr><td>17</td><td>4 o inferior</td></tr></tbody></table>"
+    },
+    "Destroy Undead (CR 3)": {
+      "name": "Destruir Muertos Vivientes (VD 3)",
+      "description": "<p>A partir de nivel 5, cuando un muerto viviente falle la tirada de salvación contra tu rasgo @UUID[Compendium.dnd5e.classfeatures.Item.r91UIgwFdHwkXdia]{Expulsar Muertos Vivientes}, la criatura será destruida instantáneamente si su valor de desafío es igual o inferior al de un umbral determinado, que se muestra en la siguiente tabla.</p><table border=\"1\"><tbody><tr><td><strong>Nivel de clérigo</strong></td><td><strong>Destruye muertos vivientes de VD...</strong></td></tr><tr><td>5</td><td>1/2 o inferior</td></tr><tr><td>8</td><td>1 o inferior</td></tr><tr><td>11</td><td>2 o inferior</td></tr><tr><td>14</td><td>3 o inferior</td></tr><tr><td>17</td><td>4 o inferior</td></tr></tbody></table>"
+    },
+    "Destroy Undead (CR 4)": {
+      "name": "Destruir Muertos Vivientes (VD 4)",
+      "description": "<p>A partir de nivel 5, cuando un muerto viviente falle la tirada de salvación contra tu rasgo @UUID[Compendium.dnd5e.classfeatures.Item.r91UIgwFdHwkXdia]{Expulsar Muertos Vivientes}, la criatura será destruida instantáneamente si su valor de desafío es igual o inferior al de un umbral determinado, que se muestra en la siguiente tabla.</p><table border=\"1\"><tbody><tr><td><strong>Nivel de clérigo</strong></td><td><strong>Destruye muertos vivientes de VD...</strong></td></tr><tr><td>5</td><td>1/2 o inferior</td></tr><tr><td>8</td><td>1 o inferior</td></tr><tr><td>11</td><td>2 o inferior</td></tr><tr><td>14</td><td>3 o inferior</td></tr><tr><td>17</td><td>4 o inferior</td></tr></tbody></table>"
+    },
+    "Extra Attack (2)": {
+      "name": "Ataque Adicional (2)",
+      "description": "<p>Cuando lleves a cabo la acción de Atacar durante tu turno, podrás hacer dos ataques en lugar de uno.</p><p>La cantidad de ataques aumenta a tres cuando alcanzas el nivel 11 de esta clase y a cuatro cuando alcanzas el 20.</p>"
+    },
+    "Fighting Style: Archery": {
+      "name": "Tiro con Arco",
+      "description": "<p>Recibes un bonificador de +2 a las tiradas de ataque con armas a distancia.</p>"
+    },
+    "Fighting Style: Defense": {
+      "name": "Defensa",
+      "description": "<pRecibes un bonificador de +1 a la CA cuando lleves puesta cualquier armadura.</p>"
+    },
+    "Fighting Style: Dueling": {
+      "name": "Duelo",
+      "description": "<p>Cuando empuñes una única arma cuerpo a cuerpo con una mano, recibes un bonificador de +2 a tus tiradas de daño con esa arma.</p>"
+    },
+    "Fighting Style: Great Weapon Fighting": {
+      "name": "Combate con Armas a Dos Manos",
+      "description": "<p>Si sacas un 1 o un 2 en alguno de los dados de daño de un ataque hecho con un arma cuerpo a cuerpo que empuñes con las dos manos, puedes volver a tirar el dado en cuestión. Debes usar el nuevo resultado, incluso aunque este sea un 1 o un 2. Para obtener este beneficio, el arma debe poseer la propiedad versátil o a dos manos.</p>"
+    },
+    "Fighting Style: Protection": {
+      "name": "Protección",
+      "description": "<p>Cuando una criatura que puedas ver ataque a un objetivo que esté a 5 pies o menos de ti y no seas tú mismo, puedes utilizar tu reacción para dar desventaja a la tirada de ataque. Debes estar embrazando un escudo.</p>"
+    },
+    "Fighting Style: Two-Weapon Fighting": {
+      "name": "Combate con Dos Armas",
+      "description": "<p>Cuando estés combatiendo con dos armas, puedes sumar tu modificador por característica al daño del segundo ataque.</p>"
+    },
+    "Indomitable (two uses)": {
+      "name": "Indómito (dos usos)",
+      "description": "<p>Puedes repetir una tirada de salvación que hayas fallado, pero tendrás que quedarte con el nuevo resultado, aunque sea peor. Una vez utilizado este rasgo, deberás terminar un descanso largo para poder volver a usarlo otra vez.</p><p>Puedes emplear este rasgo dos veces entre descansos largos cuando alcanzas el nivel 13 y tres veces entre descansos largos a partir de nivel 17.</p><p><em>**Nota de Foundry: Ten en cuenta que los usos limitados están establecidos por defecto en 1 por descanso largo. Ajústalo manualmente según sea necesario.</em></p>"
+    },
+    "Metamagic Adept: Extended Spell": {
+      "name": "Conjuro Extendido",
+      "description": "<p>Cuando lanzas un conjuro que tenga una duración de al menos 1 minuto, puedes gastar 1 punto de hechicería para duplicar su duración, hasta un máximo de 24 horas.</p>"
+    },
+    "Metamagic Adept: Subtle Spell": {
+      "name": "Conjuro Sutil",
+      "description": "<p>Cuando lanzas un conjuro, puedes gastar 1 punto de hechicería para lanzarlo sin componentes somáticos ni verbales.</p>"
+    },
+    "Metamagic: Empowered Spell": {
+      "name": "Conjuro Potenciado",
+      "description": "<p>Cuando tiras el daño de un conjuro, puedes gastar 1 punto de hechicería para repetir la tirada de, como mucho, tantos dados de daño como tu modificador por Carisma (mínimo de un dado). Deberás usar los nuevos resultados.</p><p>Puedes usar Conjuro Potenciado aunque ya hayas empleado una opción diferente de Metamagia durante el lanzamiento del conjuro.</p>"
+    },
+    "Metamagic: Quickened Spell": {
+      "name": "Conjuro Acelerado",
+      "description": "<p>Cuando lanzas un conjuro con un tiempo de lanzamiento de 1 acción, puedes gastar 2 puntos de hechicería para hacer que el tiempo de lanzamiento sea solo de 1 acción adicional a efectos de este lanzamiento.</p>"
+    },
+    "Metamagic: Subtle Spell": {
+      "name": "Conjuro Sutil",
+      "description": "<p>Cuando lanzas un conjuro, puedes gastar 1 punto de hechicería para lanzarlo sin componentes somáticos ni verbales.</p>"
+    },
+    "Metamagic: Twinned Spell": {
+      "name": "Conjuro Gemelo",
+      "description": "<p>Cuando lanzas un conjuro que tiene como objetivo a una sola criatura y no posee un alcance de lanzador, puedes gastar tantos puntos de hechicería como el nivel del conjuro para hacer objetivo del mismo conjuro a una segunda criatura dentro del alcance (1 punto de hechicería si el conjuro es un truco).</p><p>Para que un conjuro pueda beneficiarse de esta opción, este debe ser incapaz de hacer objetivo a más de una criatura al nivel al que lo lanzas. Por ejemplo, @UUID[Compendium.dnd5e.spells.Item.41JIhpDyM9Anm7cs]{Proyectil Mágico} y @UUID[Compendium.dnd5e.spells.Item.7u2obDvuvtZBkTfq]{Rayo Abrasador} no cumplen esta condición, pero @UUID[Compendium.dnd5e.spells.Item.ctW81uiX56xZR2c5]{Rayo de Escarcha} sí lo hace.</p>"
+    },
+    "One with Shadows": {
+      "name": "Uno con las Sombras",
+      "description": "<p>Cuando estás en una zona de luz tenue u oscuridad, puedes usar tu acción para volverte invisible hasta que te muevas o realices una acción o una reacción.</p>"
+    },
+    "Sacred Weapon": {
+      "name": "Canalizar Divinidad: Arma Sagrada",
+      "description": "<p>Como acción, puedes usar Canalizar Divinidad para imbuir de energía positiva una de las armas que estés sujetando.</p><p>Durante 1 minuto, añades tu modificador por Carisma a las tiradas de ataque hechas con dicha arma (bonificador mínimo de +1). El arma también emite luz brillante en un radio de 20 pies y luz tenue 20 pies más allá. Además, si no lo era ya, el arma se convierte en mágica mientras dure este efecto.</p><p>Puedes dar por finalizado este efecto durante tu turno, como parte de cualquier otra acción. También terminará si dejas de empuñar o llevar el arma, o si caes inconsciente.</p>"
+    },
+    "Song of Rest (d10)": {
+      "name": "Canción de Descanso (d10)",
+      "description": "<p>A partir de nivel 2, puedes recurrir a palabras o canciones reconfortantes para ayudar a tus aliados heridos a recuperarse durante un descanso corto.</p><p>Si cualquiera de las criaturas amistosas (incluyéndote a ti) que escuchan tu interpretación gasta Dados de Golpe para recuperar puntos de golpe al final del descanso corto, cada una de ellas recobrará 1d6 puntos de golpe adicionales.</p><p>Estos puntos de golpe adicionales aumentan cuando alcanzas ciertos niveles de esta clase: a 1d8 a nivel 9, a 1d10 a nivel 13 y a 1d12 a nivel 17.</p><p><em>**Nota de Foundry: Ten en cuenta que la tirada de curación está establecida por defecto en 1d6. Ajústalo manualmente según sea necesario.</em></p>"
+    },
+    "Song of Rest (d6)": {
+      "name": "Canción de Descanso (d6)",
+      "description": "<p>A partir de nivel 2, puedes recurrir a palabras o canciones reconfortantes para ayudar a tus aliados heridos a recuperarse durante un descanso corto.</p><p>Si cualquiera de las criaturas amistosas (incluyéndote a ti) que escuchan tu interpretación gasta Dados de Golpe para recuperar puntos de golpe al final del descanso corto, cada una de ellas recobrará 1d6 puntos de golpe adicionales.</p><p>Estos puntos de golpe adicionales aumentan cuando alcanzas ciertos niveles de esta clase: a 1d8 a nivel 9, a 1d10 a nivel 13 y a 1d12 a nivel 17.</p><p><em>**Nota de Foundry: Ten en cuenta que la tirada de curación está establecida por defecto en 1d6. Ajústalo manualmente según sea necesario.</em></p>"
+    },
+    "Song of Rest (d8)": {
+      "name": "Canción de Descanso (d8)",
+      "description": "<p>A partir de nivel 2, puedes recurrir a palabras o canciones reconfortantes para ayudar a tus aliados heridos a recuperarse durante un descanso corto.</p><p>Si cualquiera de las criaturas amistosas (incluyéndote a ti) que escuchan tu interpretación gasta Dados de Golpe para recuperar puntos de golpe al final del descanso corto, cada una de ellas recobrará 1d6 puntos de golpe adicionales.</p><p>Estos puntos de golpe adicionales aumentan cuando alcanzas ciertos niveles de esta clase: a 1d8 a nivel 9, a 1d10 a nivel 13 y a 1d12 a nivel 17.</p><p><em>**Nota de Foundry: Ten en cuenta que la tirada de curación está establecida por defecto en 1d6. Ajústalo manualmente según sea necesario.</em></p>"
+    },
+    "Turn Undead": {
+      "name": "Canalizar Divinidad: Expulsar Muertos Vivientes",
+      "description": "<p>Puedes utilizar tu acción para mostrar tu símbolo sagrado y rezar una oración que condene a los muertos vivientes.</p><p>Todos los muertos vivientes que puedan verte u oírte a 30 pies o menos de ti deben realizar una tirada de salvación de Sabiduría. Si el objetivo falla su tirada de salvación, estará expulsado durante 1 minuto o hasta recibir daño.</p><p>Una criatura expulsada deberá dedicar su turno a moverse lo más lejos posible de ti, si es que puede, y no podrá acercarse a ningún espacio a 30 pies o menos de ti. Además, tampoco será capaz de llevar a cabo reacciones.</p><p>Solo puede realizar la acción de Correr o intentar escapar de un efecto que le impida moverse. Si no tiene a dónde moverse, llevará a cabo la acción de Esquivar.</p>"
+    },
+    "Turn the Unholy": {
+      "name": "Canalizar Divinidad: Expulsar lo Impío",
+      "description": "<p>Como acción, puedes usar Canalizar Divinidad para mostrar tu símbolo sagrado y rezar una plegaria que condene a los infernales y a los muertos vivientes. Cada infernal o muerto viviente que pueda verte u oírte a 30 pies o menos de ti deberá realizar una tirada de salvación de Sabiduría. Si la criatura falla su tirada de salvación, será expulsada durante 1 minuto o hasta recibir daño.</p><p>Una criatura expulsada deberá dedicar sus turnos a tratar de alejarse de ti todo lo que pueda y no podrá acercarse voluntariamente a ningún espacio que se encuentre a 30 pies o menos de ti. Tampoco podrá llevar a cabo reacciones. Tan solo podrá realizar la acción de correr o intentar escapar de un efecto que le impida moverse. Si no tiene adónde ir, la criatura podrá usar la acción de esquivar.</p>"
+    },
+    "Paper (one sheet)": {
+      "name": "Papel",
+      "description": "<p>Una única hoja de papel.</p>"
+    },
+    "Parchment (one sheet)": {
+      "name": "Pergamino",
+      "description": "<p>Una única hoja de papel de pergamino más grueso.</p>"
+    },
+    "Perfume (vial)": {
+      "name": "Perfume",
+      "description": "<p>Un frasco de perfume aromático.</p>"
+    },
+    "Evard's Black Tentacles": {
+      "name": "Tentaculos negros",
+      "description": "<p>Tentáculos de ébano retorcidos llenan un cuadrado de 20 pies en el suelo que puedes ver dentro del alcance. Durante la Duración, estos tentáculos convierten el suelo del área en terreno difícil.</p><p>Cuando una criatura entra en el área afectada por primera vez en un turno o comienza su turno allí, la criatura debe tener éxito en una Destreza tiro de salvación o recibir 3d6 de daño contundente y ser @JournalEntry[Restringido] por los tentáculos hasta que termine el hechizo. Una criatura que comienza su turno en el área y ya está @JournalEntry[Restringida] por los tentáculos recibe 3d6 daños contundentes.</p><p>Una criatura @JournalEntry[Restringida] por los tentáculos puede usar su acción para hacer una Fuerza o una prueba de Destreza (a su elección) contra tu CD de salvación de conjuros. Si tiene éxito, se libera.</p>"
+    },
+    "Melf's Acid Arrow": {
+      "name": "Flecha ácida",
+      "description": "<p>Una reluciente flecha verde sale como un rayo hacia un objetivo dentro del alcance y explota en una rociada de ácido. Haz un ataque de conjuro a distancia contra el objetivo. Si tienes éxito, este recibe [[/r 4d4]] de daño de ácido inmediatamente y [[/r 2d4]] más al final de su siguiente turno. Si falla, la flecha salpica al objetivo conácido, haciéndole la mitad del daño inicial y ningún daño al final de su siguiente turno.</p> <p><strong>A niveles superiores.</strong> Cuando lanzas este conjuro utilizando un espacio de conjuro de nivel 3 o más, el daño (tanto el inicial como el posterior) aumenta en [[/r 1d4]] por cada nivel por encima de 2 del espacio.</p>"
+    },
+    "Otiluke's Resilient Sphere": {
+      "name": "Esfera elástica",
+      "description": "<p>Una esfera de fuerza destellante encierra a una criatura u objeto de tamaño Grande o menor dentro del alcance. Una criatura no voluntaria puede hacer una tirada de salvación de Destreza. Si falla, quedará encerrada hasta el final de la duración del conjuro.</p><p>Nada (ni objetos físicos, energía u otros efectos de conjuro) puede atravesar la barrera, hacia dentro o hacia fuera, pero una criatura que esté dentro de la esfera puede respirar con normalidad. La esfera es inmune a todo el daño. Además, una criatura u objeto albergada en su interior no puede ser dañado por ataques o efectos cuyo origen sea externo a la esfera, como tampoco puede una criatura situada dentro de la esfera dañar a algo en el exterior.</p><p>La esfera no pesa nada y es del tamaño justo para contener a la criatura u objeto. Una criatura encerrada puede utilizar su acción para empujar la esfera desde dentro, haciéndola rodar a una velocidad máxima que será la mitad de la velocidad de la criatura. De la misma forma, el globo puede ser levantado y movido por otras criaturas.</p><p>Un conjuro de @UUID[Compendium.dnd5e.spells.Item.HBHbOGKNVVprSlwn]{Desintegrar} que tenga como objetivo el globo lo destruirá sin dañar nada albergado dentro del mismo.</p>"
+    },
+    "Otto's Irresistible Dance": {
+      "name": "Baile irresistible",
+      "description": "<p>Elige a una criatura que puedas ver dentro del alcance. Comenzará a ejecutar una danza cómica en el lugar en el que se encuentre: arrastrando los pies, taconeando y haciendo cabriolas hasta el final de la duración del conjuro. Las criaturas inmunes a ser hechizadas no se ven afectadas por este conjuro.</p><p>El objetivo debe utilizar todo su movimiento en bailar y no puede moverse de donde esté. Tendrá desventaja en tiradas de salvación de Destreza y en tiradas de ataque. Mientras siga afectado por el conjuro, las tiradas de ataque de otras criaturas contra el tendrán ventaja. Como acción, la criatura bailarina puede hacer una tirada de salvación de Sabiduría para intentar recuperar el control. Si tiene éxito en la tirada, el conjuro termina inmediatamente.</p>"
+    },
+    "Polymorph (Cloak of the Bat)": {
+      "name": "Polimorfar",
+      "description": "<p>Este conjuro transforma a una criatura que puedas ver dentro del alcance en una nueva forma. Una criatura no voluntaria puede hacer una tirada de salvación de Sabiduría para evitar la transformación. El conjuro no tendrá efecto en un cambiaformas o en una criatura con 0 puntos de golpe.</p><p>La transformación se mantiene hasta el final de la duración del conjuro o hasta que el objetivo muera o sea reducido a 0 puntos de golpe. La nueva forma puede ser la de cualquier bestia cuyo valor de desafío sea igual o menor que el del objetivo (o igual o menor que el nivel del objetivo, si este no tiene un valor de desafío). Reemplaza el perfil del objetivo por el perfil de la bestia elegida, incluyendo las puntuaciones de característica mentales. Únicamente mantendrá su alineamiento y personalidad.</p><p>También pasará a tener los puntos de golpe de su nueva forma. Cuando revierta a su forma normal volverá a poseer los puntos de golpe que tuviera antes de la transformación. Si la transformación se rompe al quedar su nueva forma reducida a 0 puntos de golpe, cualquier daño sobrante se aplica a la forma normal. Si este daño sobrante no reduce la forma normal de la criatura a 0 puntos de vida, no cae inconsciente. Las acciones de la criatura quedan limitadas por la naturaleza de su nueva forma, y tampoco puede hablar, lanzar conjuros o realizar cualquier acción que requiera del habla o uso de las manos.</p><p>El equipamiento del objetivo se funde con la nueva forma. El objetivo no puede activar, blandir o beneficiarse de su equipamiento de ninguna manera.</p>"
+    },
+    "Rary's Telepathic Bond": {
+      "name": "Enlace telepático",
+      "description": "<p>Forjas un enlace telepático entre hasta ocho criaturas voluntarias de tu elección dentro del alcance. Cada uno de los objetivos queda unido psíquicamente a los demás hasta el final del conjuro. Las criaturas con puntuaciones de Inteligencia de 2 o menos no se ven afectadas por este conjuro.</p><p>Hasta que finalice el conjuro, los objetivos pueden comunicarse telepáticamente a través del enlace, tengan o no un lenguaje en común. La comunicación es capaz de cubrir cualquier distancia, pero no se extiende a otros planos de existencia.</p>"
+    },
+    "Chain": {
+      "name": "Cadena - 10 pies",
+      "description": "<p>Una cadena tiene 10 puntos de golpe y es necesario tener éxito en una prueba de Fuerza CD 20 para romperla.</p>"
+    },
+    "Dagger (Melee)": {
+      "name": "Daga",
+      "description": "<p>Una corta hoja de metal montada en una pequeña empuñadura y una guarda cruzada. La daga es un arma secundaria eficaz para los guerreros curtidos o una hoja oculta para asesinos y ladrones.</p>"
+    },
+    "Dagger (Ranged)": {
+      "name": "Daga",
+      "description": "<p>Una corta hoja de metal montada en una pequeña empuñadura y una guarda cruzada. La daga es un arma secundaria eficaz para los guerreros curtidos o una hoja oculta para asesinos y ladrones.</p>"
+    },
+    "Dagger (Thrown)": {
+      "name": "Daga",
+      "description": "<p>Una corta hoja de metal montada en una pequeña empuñadura y una guarda cruzada. La daga es un arma secundaria eficaz para los guerreros curtidos o una hoja oculta para asesinos y ladrones.</p>"
+    },
+    "Javelin (Melee)": {
+      "name": "Jabalina",
+      "description": "<p>Esta lanza ligera y flexible está diseñada para ser lanzada, pero es lo suficientemente versátil como para ser utilizada también en el combate cuerpo a cuerpo.</p>"
+    },
+    "Javelin (Ranged)": {
+      "name": "Jabalina",
+      "description": "<p>Esta lanza ligera y flexible está diseñada para ser lanzada, pero es lo suficientemente versátil como para ser utilizada también en el combate cuerpo a cuerpo.</p>"
+    },
+    "Light Hammer (Melee)": {
+      "name": "Martillo ligero",
+      "description": "<p>Este robusto martillo es lo suficientemente pequeño como para ser blandido ágilmente o usado en combinación con otra arma.</p>"
+    },
+    "Light Hammer (Ranged)": {
+      "name": "Martillo ligero",
+      "description": "<p>Este robusto martillo es lo suficientemente pequeño como para ser blandido ágilmente o usado en combinación con otra arma.</p>"
+    },
+    "Quarterstaff (One-Handed)": {
+      "name": "Bastón",
+      "description": "<p>Un grueso palo de madera envuelto con una firme empuñadura hace que sea un arma muy funcional, además de un robusto bastón para caminar.</p>"
+    },
+    "Quarterstaff (Two-Handed)": {
+      "name": "Bastón",
+      "description": "<p>Un grueso palo de madera envuelto con una firme empuñadura hace que sea un arma muy funcional, además de un robusto bastón para caminar.</p>"
+    },
+    "Spear (Melee)": {
+      "name": "Lanza",
+      "description": "<p>Con una punta de acero reluciente sobre un robusto mango de madera, la lanza puede blandirse con una o dos manos y puede atravesar la armadura más pesada con una fuerza mortal.</p>"
+    },
+    "Spear (Melee) (Base)": {
+      "name": "Lanza",
+      "description": "<p>Con una punta de acero reluciente sobre un robusto mango de madera, la lanza puede blandirse con una o dos manos y puede atravesar la armadura más pesada con una fuerza mortal.</p>"
+    },
+    "Spear (Melee) (Full)": {
+      "name": "Lanza",
+      "description": "<p>Con una punta de acero reluciente sobre un robusto mango de madera, la lanza puede blandirse con una o dos manos y puede atravesar la armadura más pesada con una fuerza mortal.</p>"
+    },
+    "Spear (Ranged)": {
+      "name": "Lanza",
+      "description": "<p>Con una punta de acero reluciente sobre un robusto mango de madera, la lanza puede blandirse con una o dos manos y puede atravesar la armadura más pesada con una fuerza mortal.</p>"
+    },
+    "Spear (Ranged) (Base)": {
+      "name": "Lanza",
+      "description": "<p>Con una punta de acero reluciente sobre un robusto mango de madera, la lanza puede blandirse con una o dos manos y puede atravesar la armadura más pesada con una fuerza mortal.</p>"
+    },
+    "Spear (Ranged) (Full)": {
+      "name": "Lanza",
+      "description": "<p>Con una punta de acero reluciente sobre un robusto mango de madera, la lanza puede blandirse con una o dos manos y puede atravesar la armadura más pesada con una fuerza mortal.</p>"
+    },
+    "Unarmed Strike (Vampire Form Only)": {
+      "name": "Ataque sin armas",
+      "description": "<p>Puedes atacar en cuerpo a cuerpo estando desarmado mediante un ataque sin armas, ya se trate de un puñetazo, patada, cabezazo o cualquier otro impacto enérgico. En caso de impactar, causarás 1 + tu modificador de Fuerza de daño contundente. Siempre eres competente con tus ataques sin armas.</p>"
+    },
+    "Claws": {
+      "name": "Garras",
+      "description": "<p><i>Ataque con arma cuerpo a cuerpo:</i> [[/r 1d20+4]]{+4} al ataque, alcance 5 pies, un objetivo. <i>Impacto:</i> 7 ([[/damage 2d4 + 2 type=slashing]]) de daño cortante. Si el objetivo es una criatura que no sea un elfo ni un muerto viviente, debe superar una tirada de salvación [[/save ability=constitution dc=10]] o quedará &amp;Reference[condition=paralyzed]{paralizado} durante 1 minuto. El objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos y, si la supera, el efecto termina para él.</p>"
+    },
+    "Thunderclap": {
+      "name": "Palmada atronadora",
+      "description": "<p>Creas un estallido de sonido atronador que se oye hasta a 100 pies. Cada criatura dentro del alcance, salvo tú, debe hacer una tirada de salvación de Constitución o recibirá [[/r 1d6]] de daño de trueno.</p><p>El daño del conjuro aumenta en [[/r 1d6]] cuando alcanzas el nivel 5 ([[/r 2d6]]), el nivel 11 ([[/r 3d6]]) y el nivel 17 ([[/r 4d6]]).</p>"
+    },
+    "Divine Magic": {
+      "name": "Magia divina",
+      "description": "<p>Tu vínculo con lo divino te permite aprender conjuros de la clase clérigo. Cuando tu rasgo Lanzamiento de conjuros te permita aprender o sustituir un truco o un conjuro de hechicero de nivel 1 o superior, puedes elegir el nuevo conjuro de la lista de conjuros de clérigo o de la de hechicero. Debes respetar todas las demás restricciones para elegirlo, y para ti se convierte en un conjuro de hechicero.</p><p>Además, elige una afinidad para la fuente de tu poder divino: bien, mal, ley, caos o neutralidad. Aprendes un conjuro adicional según esa afinidad, como se indica abajo. Para ti es un conjuro de hechicero, pero no cuenta para tu número de conjuros de hechicero conocidos. Si más adelante lo sustituyes, debes hacerlo por un conjuro de la lista de clérigo.</p><table><thead><tr><th>Afinidad</th><th>Conjuro</th></tr></thead><tbody><tr><td>Bien</td><td>curar heridas</td></tr><tr><td>Mal</td><td>infligir heridas</td></tr><tr><td>Ley</td><td>bendición</td></tr><tr><td>Caos</td><td>perdición</td></tr><tr><td>Neutralidad</td><td>protección contra el bien y el mal</td></tr></tbody></table>"
+    },
+    "Favored by the Gods": {
+      "name": "Favorecido por los dioses",
+      "description": "<p>A partir de nivel 1, el poder divino protege tu destino. Si fallas una tirada de salvación o una tirada de ataque, puedes tirar [[/r 2d4]] y sumar el resultado al total, lo que puede cambiar el desenlace. Una vez que usas este rasgo, no puedes volver a hacerlo hasta que termines un descanso corto o largo.</p>"
+    },
+    "Flexible Casting": {
+      "name": "Lanzamiento flexible",
+      "description": "<p>Puedes usar tus puntos de hechicería para obtener espacios de conjuro adicionales, o sacrificar espacios de conjuro para obtener puntos de hechicería adicionales. A medida que subes de nivel aprendes otras formas de usar tus puntos de hechicería.</p><p><strong>Crear espacios de conjuro.</strong> Puedes transformar puntos de hechicería no gastados en un espacio de conjuro como acción adicional en tu turno. Los espacios creados desaparecen al terminar un descanso largo. La tabla indica el coste de crear un espacio de cada nivel. No puedes crear espacios de nivel superior a 5.</p><table><caption>Crear espacios de conjuro</caption><thead><tr><th>Nivel del espacio</th><th>Coste en puntos de hechicería</th></tr></thead><tbody><tr><td>1</td><td>2</td></tr><tr><td>2</td><td>3</td></tr><tr><td>3</td><td>5</td></tr><tr><td>4</td><td>6</td></tr><tr><td>5</td><td>7</td></tr></tbody></table><p><strong>Convertir un espacio de conjuro en puntos de hechicería.</strong> Como acción adicional en tu turno, puedes gastar un espacio de conjuro y obtener tantos puntos de hechicería como su nivel.</p>"
+    },
+    "Metamagic: Transmuted Spell": {
+      "name": "Conjuro transmutado",
+      "description": "<p>Cuando lanzas un conjuro que inflige un tipo de daño de la siguiente lista, puedes gastar 1 punto de hechicería para cambiarlo por otro de los tipos de la lista: ácido, frío, fuego, relámpago, veneno o trueno.</p>"
+    },
+    "Order of Scribes": {
+      "name": "Orden de los Escribas",
+      "description": "<p>Magia de libro: así es como mucha gente llama a la magia de los magos. El nombre es apropiado, dado todo el tiempo que pasan los magos estudiando tomos y escribiendo teorías sobre la naturaleza de la magia. Es raro ver a un mago de viaje sin libros y pergaminos asomando de sus bolsas, y un mago haría lo imposible por explorar un archivo de saber antiguo.</p><p>Entre los magos, la Orden de los Escribas es la más libresca. Adopta muchas formas en distintos mundos, pero su misión principal es la misma en todas partes: dejar constancia de los descubrimientos mágicos para que la magia arcana florezca. Y aunque todos los magos aprecian sus libros de conjuros, un mago de la Orden de los Escribas despierta mágicamente el suyo y lo convierte en un compañero de confianza. Todos los magos estudian libros, ¡pero un escriba mágico habla con el suyo!</p><h3>Nivel 2: Pluma mágica</h3><p>Como acción adicional, puedes crear mágicamente una pluma Diminuta en tu mano libre. La pluma mágica tiene estas propiedades:</p><ul><li>No necesita tinta. Al escribir con ella, produce tinta del color que elijas sobre la superficie.</li><li>Si la usas para transcribir, el tiempo para copiar un conjuro en tu libro de conjuros es de 2 minutos por nivel del conjuro.</li><li>Puedes borrar cualquier cosa que hayas escrito con la pluma agitándola sobre el texto como acción adicional, siempre que el texto esté a 5 pies o menos de ti.</li></ul><p>La pluma desaparece si creas otra o si mueres.</p><h3>Nivel 2: Libro de conjuros despierto</h3><p>Con tintas especialmente preparadas y antiguos conjuros transmitidos por tu orden, has despertado una consciencia arcana en tu libro de conjuros.</p><p>Mientras sostienes el libro, te concede estos beneficios:</p><ul><li>Puedes usarlo como canalizador mágico para tus conjuros de mago.</li><li>Cuando lanzas un conjuro de mago con un espacio de conjuro, puedes sustituir temporalmente su tipo de daño por uno que aparezca en otro conjuro de tu libro, lo que altera mágicamente la fórmula del conjuro solo para ese lanzamiento. Ese otro conjuro debe ser del mismo nivel que el espacio que gastas.</li><li>Cuando lanzas un conjuro de mago como ritual, puedes usar su tiempo de lanzamiento normal en lugar de añadirle 10 minutos. Una vez que usas este beneficio, no puedes volver a hacerlo hasta que termines un descanso largo.</li></ul><p>Si es necesario, puedes sustituir el libro durante un descanso corto usando tu Pluma mágica para escribir sigilos arcanos en un libro en blanco o en un libro de conjuros mágico con el que estés sintonizado. Al final del descanso, la consciencia de tu libro es invocada al nuevo, que se transforma en tu libro de conjuros junto con todos sus conjuros. Si el libro anterior seguía existiendo en algún lugar, todos los conjuros desaparecen de sus páginas.</p><h3>Nivel 6: Manifestar la mente</h3><p>Puedes hacer surgir la mente de tu Libro de conjuros despierto. Como acción adicional, mientras llevas el libro encima, puedes hacer que la mente se manifieste como un objeto espectral Diminuto que flota en un espacio libre de tu elección a 60 pies o menos de ti. La mente espectral es intangible, no ocupa su espacio y emite luz tenue en un radio de 10 pies. Parece un tomo fantasmal, una cascada de texto o un erudito del pasado (a tu elección).</p><p>Mientras está manifestada, la mente espectral puede oír y ver, y tiene &amp;Reference[rule=darkvision]{visión en la oscuridad} con un alcance de 60 pies. Puede compartir contigo telepáticamente lo que ve y oye (no requiere acción).</p><p>Cada vez que lanzas un conjuro de mago en tu turno, puedes lanzarlo como si estuvieras en el espacio de la mente espectral en lugar del tuyo, usando sus sentidos. Puedes hacerlo tantas veces al día como tu bonificador por competencia, y recuperas todos los usos gastados al terminar un descanso largo.</p><p>Como acción adicional, puedes hacer que la mente espectral flote hasta 30 pies hasta un espacio libre que tú o ella podáis ver. Puede atravesar criaturas, pero no objetos.</p><p>La mente espectral deja de manifestarse si se aleja más de 300 pies de ti, si alguien lanza disipar magia sobre ella, si el Libro de conjuros despierto es destruido, si mueres o si la despides como acción adicional.</p><p>Una vez que invocas la mente, no puedes volver a hacerlo hasta que termines un descanso largo, a menos que gastes un espacio de conjuro de cualquier nivel para invocarla de nuevo.</p><h3>Nivel 10: Maestro escribano</h3><p>Cada vez que terminas un descanso largo, puedes crear un pergamino mágico tocando con tu Pluma mágica una hoja de papel o pergamino en blanco y haciendo que se copie en ella un conjuro de tu Libro de conjuros despierto. El libro debe estar a 5 pies o menos de ti cuando creas el pergamino.</p><p>El conjuro elegido debe ser de nivel 1 o 2 y tener un tiempo de lanzamiento de 1 acción. En el pergamino, su poder aumenta y cuenta como un nivel superior al normal. Puedes lanzarlo desde el pergamino leyéndolo como acción. El pergamino es ininteligible para cualquier otra persona, y el conjuro desaparece de él cuando lo lanzas o cuando terminas tu siguiente descanso largo.</p><p>También eres hábil fabricando pergaminos de conjuro, descritos en el capítulo de tesoros de la Guía del Dungeon Master. El oro y el tiempo necesarios para fabricarlos se reducen a la mitad si usas tu Pluma mágica.</p><h3>Nivel 14: Uno con la palabra</h3><p>Tu conexión con tu Libro de conjuros despierto es tan profunda que tu alma se ha entrelazado con él. Mientras llevas el libro encima, tienes ventaja en todas las pruebas de Inteligencia (&amp;Reference[skill=Arcana]{Conocimiento Arcano}), ya que el libro te ayuda a recordar el saber mágico.</p><p>Además, si recibes daño mientras la mente del libro está manifestada, puedes evitar todo ese daño usando tu reacción para despedir a la mente espectral, empleando su magia para salvarte. Luego tira [[/r 3d6]]. El libro pierde temporalmente conjuros de tu elección cuya suma de niveles sea igual o superior al resultado. Por ejemplo, si sale 9, desaparecen del libro conjuros que sumen al menos 9 niveles: un conjuro de nivel 9, tres de nivel 3 o cualquier otra combinación. Si no hay suficientes conjuros en el libro para cubrir el coste, quedas a 0 puntos de golpe.</p><p>Hasta que termines [[/r 1d6]] descansos largos, no puedes lanzar los conjuros perdidos, aunque los encuentres en un pergamino o en otro libro de conjuros. Tras terminar los descansos necesarios, los conjuros reaparecen en el libro.</p><p>Una vez que usas esta reacción, no puedes volver a hacerlo hasta que termines un descanso largo.</p>"
+    },
+    "Wizardly Quill": {
+      "name": "Pluma mágica",
+      "description": "<p><i>Rasgo de la Orden de los Escribas de nivel 2</i></p><p>Como acción adicional, puedes crear mágicamente una pluma Diminuta en tu mano libre. La pluma mágica tiene estas propiedades:</p><ul><li>No necesita tinta. Al escribir con ella, produce tinta del color que elijas sobre la superficie.</li><li>Si la usas para transcribir, el tiempo para copiar un conjuro en tu libro de conjuros es de 2 minutos por nivel del conjuro.</li><li>Puedes borrar cualquier cosa que hayas escrito con la pluma agitándola sobre el texto como acción adicional, siempre que el texto esté a 5 pies o menos de ti.</li></ul><p>La pluma desaparece si creas otra o si mueres.</p>"
+    },
+    "Awakened Spellbook": {
+      "name": "Libro de conjuros despierto",
+      "description": "<p><i>Rasgo de la Orden de los Escribas de nivel 2</i></p><p>Con tintas especialmente preparadas y antiguos conjuros transmitidos por tu orden, has despertado una consciencia arcana en tu libro de conjuros.</p><p>Mientras sostienes el libro, te concede estos beneficios:</p><ul><li>Puedes usarlo como canalizador mágico para tus conjuros de mago.</li><li>Cuando lanzas un conjuro de mago con un espacio de conjuro, puedes sustituir temporalmente su tipo de daño por uno que aparezca en otro conjuro de tu libro, lo que altera mágicamente la fórmula del conjuro solo para ese lanzamiento. Ese otro conjuro debe ser del mismo nivel que el espacio que gastas.</li><li>Cuando lanzas un conjuro de mago como ritual, puedes usar su tiempo de lanzamiento normal en lugar de añadirle 10 minutos. Una vez que usas este beneficio, no puedes volver a hacerlo hasta que termines un descanso largo.</li></ul><p>Si es necesario, puedes sustituir el libro durante un descanso corto usando tu Pluma mágica para escribir sigilos arcanos en un libro en blanco o en un libro de conjuros mágico con el que estés sintonizado. Al final del descanso, la consciencia de tu libro es invocada al nuevo, que se transforma en tu libro de conjuros junto con todos sus conjuros. Si el libro anterior seguía existiendo en algún lugar, todos los conjuros desaparecen de sus páginas.</p>"
+    },
+    "Chromatic Orb": {
+      "name": "Orbe cromático",
+      "description": "<p>Lanzas un orbe de energía contra un objetivo dentro del alcance. Elige ácido, frío, fuego, relámpago, veneno o trueno como tipo de orbe y haz un ataque de conjuro a distancia contra el objetivo. Si impacta, el objetivo recibe [[/damage 3d8]] de daño del tipo elegido.</p><p>Si sacas el mismo número en dos o más de los d8, el orbe salta a otro objetivo de tu elección a 30 pies o menos del primero. Haz una tirada de ataque contra el nuevo objetivo y una nueva tirada de daño. El orbe no puede volver a saltar a menos que lances el conjuro con un espacio de nivel 2 o superior.</p><p><strong>Usar un espacio de conjuro de nivel superior.</strong> El daño aumenta en [[/damage 1d8]] por cada nivel del espacio por encima de 1. El orbe puede saltar un número máximo de veces igual al nivel del espacio gastado, y cada criatura solo puede ser objetivo una vez por lanzamiento.</p>"
+    },
+    "Dragon's Breath": {
+      "name": "Aliento de dragón",
+      "description": "<p>Tocas a una criatura voluntaria y eliges ácido, frío, fuego, relámpago o veneno. Hasta que el conjuro termine, el objetivo puede usar la acción Magia para exhalar un cono de 15 pies. Cada criatura en esa área hace una tirada de salvación de Destreza y recibe [[/damage 3d6]] de daño del tipo elegido si falla, o la mitad si la supera.</p><p><strong>Usar un espacio de conjuro de nivel superior.</strong> El daño aumenta en [[/damage 1d6]] por cada nivel del espacio por encima de 2.</p>"
+    },
+    "Sorcery Points": {
+      "name": "Puntos de hechicería",
+      "description": "<p>Tienes 2 puntos de hechicería y obtienes uno más cada vez que subes de nivel, hasta un máximo de 20 a nivel 20. Nunca puedes tener más puntos de hechicería de los que indica la tabla para tu nivel. Recuperas todos los puntos de hechicería gastados al terminar un descanso largo.</p>"
+    },
+    "Cantrip Formulas": {
+      "name": "Fórmulas de trucos",
+      "description": "<p><i>Rasgo de clase opcional de mago de nivel 3</i></p><p>Has anotado en tu libro de conjuros un conjunto de fórmulas arcanas que puedes usar para formular un truco en tu mente. Cada vez que terminas un descanso largo y consultas esas fórmulas, puedes sustituir un truco de mago que conozcas por otro de la lista de conjuros de mago.</p>"
+    },
+    "Little Bag of Sand": {
+      "name": "Bolsita de arena"
+    },
+    "Ink (1-ounce bottle)": {
+      "name": "Tinta (frasco de 1 onza)"
+    },
+    "Flight": {
+      "name": "Vuelo",
+      "description": "<p>Gracias a tus alas, tienes una velocidad volando igual a tu velocidad caminando. No puedes usarla si llevas armadura intermedia o pesada.</p>"
+    },
+    "Silent Feathers": {
+      "name": "Plumas silenciosas",
+      "description": "<p>Eres competente en la habilidad &amp;Reference[skill=Stealth]{Sigilo}.</p>"
+    },
+    "Owlin": {
+      "name": "Búhoide",
+      "description": "<table><tbody><tr><th>Puntuaciones de característica</th><th>Tamaño</th><th>Velocidad</th></tr><tr><td>Elige una opción: (a) +2 a una y +1 a otra distinta; (b) +1 a tres distintas</td><td>Pequeño/Mediano</td><td>30 pies, y velocidad volando igual a tu velocidad caminando</td></tr></tbody></table><p>@UUID[Actor.F6UfWqEM2YxyT4ZV.Item.DzGhDqOPm0QmWmoo]{Visión en la oscuridad}</p><p>@UUID[Actor.F6UfWqEM2YxyT4ZV.Item.7iVgNSfZH8yAaqBB]{Vuelo}</p><p>@UUID[Actor.F6UfWqEM2YxyT4ZV.Item.AwUhInFKJFruO1eP]{Plumas silenciosas}</p><p>@UUID[Actor.F6UfWqEM2YxyT4ZV.Item.kUMA194SKR30bK1R]{Idiomas}</p><hr /><p>Parientes lejanos de los búhos gigantes del Feywild, los búhoides tienen muchas formas y tamaños, desde pequeños y esponjosos hasta majestuosos y de alas enormes. Tienen brazos y piernas como otros humanoides, además de alas que les nacen de la espalda y los hombros.</p><p>Como los búhos, los búhoides tienen plumas que no hacen ruido al moverse o volar, así que les resulta fácil acercarse a ti a hurtadillas en la biblioteca.</p><p>Tu personaje búhoide podría ser nocturno. O quizá simplemente le cueste madrugar, haciendo honor al apodo de ave nocturna.</p>"
+    },
+    "Tiefling (Asmodeus)": {
+      "name": "Tiefling (Asmodeo)",
+      "description": "<table><tbody><tr><th>Puntuaciones de característica</th><th>Tamaño</th><th>Velocidad</th></tr><tr><td>Carisma +2; Inteligencia +1</td><td>Mediano</td><td>30 pies</td></tr></tbody></table><p>@UUID[Actor.Ff45c1whDHfXQLib.Item.kNsOwI9XoEeFlYTB]{Edad}</p><p>@UUID[Actor.Ff45c1whDHfXQLib.Item.8Sn73x1Js9w00rB6]{Visión en la oscuridad}</p><p>@UUID[Actor.Ff45c1whDHfXQLib.Item.S4RPuXuFxKuEfYzo]{Resistencia infernal}</p><p>@UUID[Actor.Ff45c1whDHfXQLib.Item.YUycFW4hGq7hFYkL]{Legado infernal}</p><p>@UUID[Actor.Ff45c1whDHfXQLib.Item.OufHVA8cvcO8LZql]{Idiomas}</p><hr /><p>Los tieflings vinculados a Nessus dominan el poder del fuego y la oscuridad, guiados por un intelecto más agudo de lo normal, como corresponde a quienes están ligados al mismísimo Asmodeo.</p><hr /><p>Ser recibido con miradas y cuchicheos, sufrir violencia e insultos en la calle, ver desconfianza y miedo en cada mirada: ese es el destino del tiefling. Y para colmo, los tieflings saben que se debe a un pacto sellado hace generaciones que infundió en su linaje la esencia de Asmodeo, señor supremo de los Nueve Infiernos. Su aspecto y su naturaleza no son culpa suya, sino fruto de un pecado antiguo del que ellos, sus hijos y los hijos de sus hijos siempre tendrán que responder.</p><h3>Linaje infernal</h3><p>Los tieflings descienden de linajes humanos y, en el sentido más amplio, siguen pareciendo humanos. Sin embargo, su herencia infernal ha dejado una huella clara en su aspecto. Tienen grandes cuernos de formas muy variadas: unos enroscados como los de un carnero, otros rectos y altos como los de una gacela, y otros en espiral como los de un antílope. Tienen colas gruesas, de cuatro a cinco pies de largo, que se agitan o se enroscan en sus piernas cuando se alteran o se ponen nerviosos. Sus colmillos son afilados y sus ojos son de un color sólido (negro, rojo, blanco, plateado o dorado), sin esclerótica ni pupila visibles. Su piel abarca toda la gama de tonos humanos, pero también varios tonos de rojo. Su pelo, que cae por detrás de los cuernos, suele ser oscuro: negro o castaño, rojo oscuro, azul o morado.</p><h3>Independientes y desconfiados</h3><p>Los tieflings viven en pequeñas minorías, sobre todo en ciudades o pueblos humanos y a menudo en los barrios más duros, donde crecen para convertirse en estafadores, ladrones o señores del crimen. A veces viven con otras minorías en enclaves donde se les trata con más respeto.</p><p>Al no tener patria, los tieflings saben que deben abrirse camino solos y ser fuertes para sobrevivir. No confían fácilmente en quien dice ser su amigo, pero cuando sus compañeros demuestran que confían en ellos, aprenden a devolverles esa confianza. Y una vez que un tiefling entrega su lealtad, es un amigo o aliado para toda la vida.</p><h3>Nombres tiefling</h3><p>Los nombres tiefling se dividen en tres grandes categorías. Los nacidos en otra cultura suelen llevar nombres propios de ella. Algunos tienen nombres derivados del idioma infernal, transmitidos durante generaciones, que reflejan su herencia infernal. Y algunos tieflings jóvenes que buscan su lugar en el mundo adoptan un nombre que representa una virtud u otro concepto, e intentan encarnarlo. Para unos, el nombre elegido es una misión; para otros, un destino sombrío.</p><ul><li><strong>Nombres infernales masculinos:</strong> Akmenos, Amnon, Harahas, Ekernon, Tados, Kairon, Leucis, Melech, Morthos, Pelaios, Skamos, Therai</li><li><strong>Nombres infernales femeninos:</strong> Akra, Anakis, Bryseis, Criella, Ea, Kallista, Lerissa, Makaria, Nemeia, Phelaia, Rieta</li><li><strong>Nombres de virtud:</strong> Arte, Carroña, Cántico, Credo, Desesperación, Miedo, Gloria, Esperanza, Ideal, Música, Ninguna Parte, Poesía, Búsqueda, Azar, Reverencia, Pesar, Tormento, Hastío</li></ul><h4>Desconfianza mutua</h4><p>La gente tiende a recelar de los tieflings y da por hecho que su herencia infernal ha marcado su personalidad y su moral, no solo su aspecto. Los tenderos vigilan de cerca su mercancía cuando entra un tiefling, la guardia de la ciudad puede seguirlos un rato y los demagogos les echan la culpa de los sucesos extraños. Pero la realidad es que el linaje de un tiefling no afecta mucho a su personalidad. Años de desconfianza sí dejan huella en la mayoría, y cada uno responde a su manera: algunos deciden estar a la altura del estereotipo malvado, pero otros son virtuosos. La mayoría simplemente es muy consciente de cómo reacciona la gente ante ellos. Tras sufrir esa desconfianza durante su juventud, un tiefling suele aprender a superar los prejuicios con encanto o con intimidación.</p>"
+    },
+    "Divine Soul": {
+      "name": "Alma Divina",
+      "description": "<p>A veces, la chispa de magia que alimenta a un hechicero procede de una fuente divina que brilla en su alma. Tener un alma bendecida así indica que tu magia innata podría venir de un vínculo familiar lejano pero poderoso con un ser divino. Quizá tu antepasado fue un ángel convertido en mortal y enviado a luchar en nombre de un dios.</p><p>O quizá tu nacimiento coincide con una antigua profecía que te señala como siervo de los dioses o recipiente elegido de la magia divina.</p><p>Algunas jerarquías religiosas ven en un Alma Divina, con su magnetismo natural, una amenaza. Como forastero que domina el poder sagrado, un Alma Divina puede socavar el orden establecido reclamando un vínculo directo con lo divino.</p><p>En algunas culturas, solo quienes pueden reclamar el poder de un Alma Divina pueden ostentar poder religioso. En esas tierras, los cargos eclesiásticos están dominados por unos pocos linajes que los conservan durante generaciones.</p><h3>Nivel 1: Magia divina</h3><p>Tu vínculo con lo divino te permite aprender conjuros de la clase clérigo. Cuando tu rasgo Lanzamiento de conjuros te permita aprender o sustituir un truco o un conjuro de hechicero de nivel 1 o superior, puedes elegir el nuevo conjuro de la lista de conjuros de clérigo o de la de hechicero. Debes respetar todas las demás restricciones para elegirlo, y para ti se convierte en un conjuro de hechicero.</p><p>Además, elige una afinidad para la fuente de tu poder divino: bien, mal, ley, caos o neutralidad. Aprendes un conjuro adicional según esa afinidad, como se indica abajo. Para ti es un conjuro de hechicero, pero no cuenta para tu número de conjuros de hechicero conocidos. Si más adelante lo sustituyes, debes hacerlo por un conjuro de la lista de clérigo.</p><table><thead><tr><th>Afinidad</th><th>Conjuro</th></tr></thead><tbody><tr><td>Bien</td><td>curar heridas</td></tr><tr><td>Mal</td><td>infligir heridas</td></tr><tr><td>Ley</td><td>bendición</td></tr><tr><td>Caos</td><td>perdición</td></tr><tr><td>Neutralidad</td><td>protección contra el bien y el mal</td></tr></tbody></table><h3>Nivel 1: Favorecido por los dioses</h3><p>A partir de nivel 1, el poder divino protege tu destino. Si fallas una tirada de salvación o una tirada de ataque, puedes tirar [[/r 2d4]] y sumar el resultado al total, lo que puede cambiar el desenlace. Una vez que usas este rasgo, no puedes volver a hacerlo hasta que termines un descanso corto o largo.</p><h3>Nivel 6: Curación potenciada</h3><p>A partir de nivel 6, la energía divina que te recorre puede potenciar los conjuros de curación. Cada vez que tú o un aliado a 5 pies o menos de ti tiréis dados para determinar cuántos puntos de golpe restaura un conjuro, puedes gastar 1 punto de hechicería para volver a tirar una vez cualquier cantidad de esos dados, siempre que no estés &amp;Reference[condition=incapacitated]{incapacitado}. Solo puedes usar este rasgo una vez por turno.</p><h3>Nivel 14: Alas de otro mundo</h3><p>A partir de nivel 14, puedes usar una acción adicional para hacer brotar de tu espalda un par de alas espectrales. Mientras las tengas, tienes una velocidad volando de 30 pies. Las alas duran hasta que quedes &amp;Reference[condition=incapacitated]{incapacitado}, mueras o las hagas desaparecer como acción adicional.</p><p>La afinidad que elegiste para tu Magia divina determina su aspecto: alas de águila para el bien o la ley, de murciélago para el mal o el caos, y de libélula para la neutralidad.</p><h3>Nivel 18: Recuperación sobrenatural</h3><p>A nivel 18 obtienes la capacidad de sobreponerte a heridas graves. Como acción adicional, cuando te quede menos de la mitad de tus puntos de golpe, puedes recuperar tantos puntos de golpe como la mitad de tu máximo.</p><p>Una vez que usas este rasgo, no puedes volver a hacerlo hasta que termines un descanso largo.</p>"
     }
   }
 }
