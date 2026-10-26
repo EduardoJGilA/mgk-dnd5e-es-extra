@@ -1,0 +1,13 @@
+{
+  "id": "mgk-dnd5e-es-extra",
+  "title": "Translation: Español [DnD5e] - Extra MGK",
+  "description": "Traducciones propias (homebrew y contenido no-SRD) para Babele. Solo uso local, no publicar.",
+  "version": "1.0.0",
+  "authors": [{"name": "MGK"}],
+  "compatibility": {"minimum": "14", "verified": "14.364", "maximum": "14.999"},
+  "relationships": {
+    "systems": [{"id": "dnd5e", "type": "system"}],
+    "requires": [{"id": "babele", "type": "module"}, {"id": "ravanno-dnd5e-es", "type": "module"}]
+  },
+  "esmodules": ["babele-register.js"]
+}
